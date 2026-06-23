@@ -1,0 +1,204 @@
+﻿
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\C0415o0Oo0O0O.java:855: error: 
+incompatible types: Factory cannot be converted to C0466o0Ooo0
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\AbstractC0692o0ooooOo.java:570: 
+error: constructor C0574o0oOo in class C0574o0oOo cannot be applied to given types;
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\AbstractC0692o0ooooOo.java:572: 
+error: constructor C0574o0oOo in class C0574o0oOo cannot be applied to given types;
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\AbstractC0692o0ooooOo.java:574: 
+error: constructor C0574o0oOo in class C0574o0oOo cannot be applied to given types;
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\AbstractC0692o0ooooOo.java:1022:
+ error: constructor o0O0oo00 in class o0O0oo00 cannot be applied to given types;
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\AbstractC0692o0ooooOo.java:1569:
+ error: incompatible types: Object cannot be converted to Entry
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\AbstractC0692o0ooooOo.java:1596:
+ error: cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\AbstractC0692o0ooooOo.java:1677:
+ error: incompatible types: Object cannot be converted to Integer
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\AbstractC0692o0ooooOo.java:1709:
+ error: incompatible types: Object cannot be converted to Integer
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\AbstractC0692o0ooooOo.java:1735:
+ error: incompatible types: Object cannot be converted to Entry
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\AbstractC0692o0ooooOo.java:1831:
+ error: incompatible types: Object cannot be converted to Entry
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\AbstractC0692o0ooooOo.java:1851:
+ error: incompatible types: Object cannot be converted to Entry
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\C0589o0oOoOO0.java:10: error: 
+C0589o0oOoOO0 is not abstract and does not override abstract method OooOOoo(C1214oOoOOo0o,float,float) in 
+AbstractC0692o0ooooOo
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\AbstractComponentCallbacksC0593o
+0oOoOo0.java:155: error: cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\AbstractComponentCallbacksC0593o
+0oOoOo0.java:156: error: cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\AbstractComponentCallbacksC0593o
+0oOoOo0.java:157: error: cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\AbstractComponentCallbacksC0593o
+0oOoOo0.java:158: error: cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\AbstractComponentCallbacksC0593o
+0oOoOo0.java:159: error: cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\AbstractComponentCallbacksC0593o
+0oOoOo0.java:160: error: incompatible types: Object cannot be converted to C0586o0oOoO0
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\o00000OO.java:106: error: 
+cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\o00000OO.java:120: error: 
+package animation does not exist
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\o00000OO.java:120: error: 
+package animation does not exist
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\oOO00OOO.java:217: error: 
+incompatible types: Object cannot be converted to OooO00o
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\oOO00OOO.java:248: error: 
+incompatible types: Object cannot be converted to OooO00o
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\oOO00OOO.java:261: error: 
+incompatible types: Object cannot be converted to OooO00o
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\fragment\app\OooO00o.java:370: error: 
+incompatible types: EnumC0612o0oo00OO cannot be converted to Void
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\fragment\app\OooO00o.java:371: error: 
+incompatible types: EnumC0612o0oo00OO cannot be converted to Void
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\fragment\app\OooO00o.java:437: error: 
+not an enclosing class: AbstractComponentCallbacksC0593o0oOoOo0
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\fragment\app\OooO00o.java:567: error: 
+method OooO00o in class oOO00OOO cannot be applied to given types;
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\C0610o0oo00O.java:9: error: 
+constructor o0O0O00 in class o0O0O00 cannot be applied to given types;
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\MenuC0887oO0oo0oo.java:588: 
+error: incompatible types: SparseArray<CAP#1> cannot be converted to SparseArray<Parcelable>
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\oOO0000O.java:3: error: 
+oOO0000O is not abstract and does not override abstract method OooO0o(Object,Object) in AbstractC1290oOooO00
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\C0373o0OOOooO.java:4: error: 
+C0373o0OOOooO is not abstract and does not override abstract method OooOOo0() in AbstractC0104o000o0o
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\LayoutInflater$Factory2C0109o000
+oOoo.java:924: error: incompatible types: Object cannot be converted to C0107o000o0oo
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\LayoutInflater$Factory2C0109o000
+oOoo.java:925: error: bad operand types for binary operator '=='
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\LayoutInflater$Factory2C0109o000
+oOoo.java:927: error: cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\LayoutInflater$Factory2C0109o000
+oOoo.java:928: error: cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\LayoutInflater$Factory2C0109o000
+oOoo.java:930: error: incompatible types: Object cannot be converted to C0107o000o0oo
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\Window$CallbackC0102o000o0OO.jav
+a:168: error: cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\Window$CallbackC0102o000o0OO.jav
+a:169: error: cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\Window$CallbackC0102o000o0OO.jav
+a:170: error: cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\Window$CallbackC0102o000o0OO.jav
+a:173: error: cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\Window$CallbackC0102o000o0OO.jav
+a:174: error: incompatible types: Object cannot be converted to InterfaceC0886oO0oo0o0
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\Window$CallbackC0102o000o0OO.jav
+a:175: error: incompatible types: Object cannot be converted to o00000O
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\Window$CallbackC0102o000o0OO.jav
+a:176: error: cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\Window$CallbackC0102o000o0OO.jav
+a:177: error: incompatible types: Object cannot be converted to o00000O
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\Window$CallbackC0102o000o0OO.jav
+a:178: error: incompatible types: Object cannot be converted to o00000O
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\AbstractC0694o0ooooo0.java:881: 
+error: AbstractC1290oOooO00 is abstract; cannot be instantiated
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\AbstractC0694o0ooooo0.java:889: 
+error: incompatible types: AbstractC1290oOooO00 cannot be converted to oOO0000O
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\C1511oo0OOoo0.java:20: error: 
+C1511oo0OOoo0 is not abstract and does not override abstract method OoooO0O() in AbstractC0694o0ooooo0
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\C1271oOoo0OOO.java:101: error: 
+incompatible types: int cannot be converted to boolean
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\C1271oOoo0OOO.java:102: error: 
+incompatible types: int cannot be converted to boolean
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\C1271oOoo0OOO.java:107: error: 
+incompatible types: int cannot be converted to boolean
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\C1271oOoo0OOO.java:110: error: 
+incompatible types: int cannot be converted to boolean
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\C1271oOoo0OOO.java:131: error: 
+incompatible types: int cannot be converted to boolean
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\C1271oOoo0OOO.java:132: error: 
+incompatible types: int cannot be converted to boolean
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\C1271oOoo0OOO.java:159: error: 
+incompatible types: boolean cannot be converted to int
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\C0103o000o0Oo.java:8: error: 
+C0103o000o0Oo is not abstract and does not override abstract method OooOOo0() in AbstractC0104o000o0o
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\o0000OO0.java:325: error: 
+cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\o0000OO0.java:326: error: 
+cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\o0000OO0.java:327: error: 
+cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\o0000OO0.java:328: error: 
+cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\o0000OO0.java:329: error: 
+incompatible types: Object cannot be converted to o0000O
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\o00O0OO.java:49: error: cannot 
+find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\o00O0OO.java:50: error: cannot 
+find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\o00O0OO.java:51: error: 
+incompatible types: Object cannot be converted to C1324oOooo000
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\o00O0OO.java:312: error: 
+incompatible types: Object cannot be converted to C1324oOooo000
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\o00O0OO.java:421: error: 
+incompatible types: Object cannot be converted to C1324oOooo000
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\EnumC1000oOOOO0oo.java:19: 
+error: Enum is abstract; cannot be instantiated
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\EnumC1000oOOOO0oo.java:20: 
+error: incompatible types: Enum cannot be converted to EnumC1000oOOOO0oo
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\EnumC1000oOOOO0oo.java:21: 
+error: Enum is abstract; cannot be instantiated
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\EnumC1000oOOOO0oo.java:22: 
+error: incompatible types: Enum cannot be converted to EnumC1000oOOOO0oo
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\EnumC1000oOOOO0oo.java:23: 
+error: Enum is abstract; cannot be instantiated
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\EnumC1000oOOOO0oo.java:24: 
+error: incompatible types: Enum cannot be converted to EnumC1000oOOOO0oo
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\EnumC1000oOOOO0oo.java:25: 
+error: Enum is abstract; cannot be instantiated
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\EnumC1000oOOOO0oo.java:26: 
+error: incompatible types: Enum cannot be converted to EnumC1000oOOOO0oo
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\EnumC1000oOOOO0oo.java:27: 
+error: incompatible types: Enum cannot be converted to EnumC1000oOOOO0oo
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\EnumC1000oOOOO0oo.java:27: 
+error: incompatible types: Enum cannot be converted to EnumC1000oOOOO0oo
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\EnumC1000oOOOO0oo.java:27: 
+error: incompatible types: Enum cannot be converted to EnumC1000oOOOO0oo
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\EnumC1000oOOOO0oo.java:27: 
+error: incompatible types: Enum cannot be converted to EnumC1000oOOOO0oo
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\EnumC1000oOOOO0oo.java:31: 
+error: method valueOf in class Enum<E> cannot be applied to given types;
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\C0113o000oo0O.java:45: error: 
+incompatible types: Object cannot be converted to C0113o000oo0O
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\C0113o000oo0O.java:46: error: 
+cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\C1135oOOooo00.java:18: error: 
+incompatible types: C0839oO0o0ooO cannot be converted to C1131oOOooOoO
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\C1131oOOooOoO.java:4: error: no 
+suitable constructor found for C0839oO0o0ooO(no arguments)
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\C0111o000oo0.java:93: error: 
+incompatible types: int[] cannot be converted to int[][]
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\AbstractC1066oOOo0Oo.java:129: 
+error: cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\AbstractC1066oOOo0Oo.java:130: 
+error: cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\AbstractC1066oOOo0Oo.java:131: 
+error: cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\AbstractC1066oOOo0Oo.java:132: 
+error: cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\AbstractC1066oOOo0Oo.java:134: 
+error: incompatible types: Object cannot be converted to C1067oOOo0Oo0
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja\engine\AbstractC1066oOOo0Oo.java:557: 
+error: setMeasuredDimension(int,int) has protected access in View
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\recyclerview\widget\StaggeredGridLayoutM
+anager.java:111: error: cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\recyclerview\widget\StaggeredGridLayoutM
+anager.java:112: error: cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\recyclerview\widget\StaggeredGridLayoutM
+anager.java:113: error: cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\recyclerview\widget\StaggeredGridLayoutM
+anager.java:114: error: incompatible types: Object cannot be converted to oO0O000o
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\recyclerview\widget\StaggeredGridLayoutM
+anager.java:444: error: cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\recyclerview\widget\StaggeredGridLayoutM
+anager.java:445: error: cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\recyclerview\widget\StaggeredGridLayoutM
+anager.java:446: error: cannot find symbol
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\recyclerview\widget\StaggeredGridLayoutM
+anager.java:447: error: cannot find symbol
+
+

@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ninja.engine.app-mergeDebugResources-27:/values-small-v4/values-small-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sarko\\Downloads\\ninja_engine_project\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,131",
+                        "endColumns": "72,69",
+                        "endOffsets": "125,196"
+                    },
+                    "to": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,270",
+                        "endColumns": "72,69",
+                        "endOffsets": "123,335"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\sarko\\.gradle\\caches\\transforms-3\\83ec12ef522fb2d65f7e424bd09c6e58\\transformed\\material-1.9.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "128,198",
+                        "endColumns": "69,71",
+                        "endOffsets": "193,265"
+                    }
+                }
+            ]
+        }
+    ]
+}

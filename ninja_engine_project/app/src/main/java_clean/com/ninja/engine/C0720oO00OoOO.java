@@ -1,0 +1,104 @@
+﻿package com.ninja.engine;
+
+import android.content.ClipDescription;
+import android.net.Uri;
+import android.os.Bundle;
+import android.os.ResultReceiver;
+import android.text.TextUtils;
+import android.view.inputmethod.InputConnection;
+import android.view.inputmethod.InputConnectionWrapper;
+/* renamed from: com.ninja.engine.oO00OoOO  reason: case insensitive filesystem */
+/* loaded from: classes.dex */
+public final class C0720oO00OoOO extends InputConnectionWrapper {
+    public final /* synthetic */ C0435o0OoO000 OooO00o;
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    public C0720oO00OoOO(InputConnection inputConnection, C0435o0OoO000 c0435o0OoO000) {
+        super(inputConnection, false);
+        this.OooO00o = c0435o0OoO000;
+    }
+
+    @Override // android.view.inputmethod.InputConnectionWrapper, android.view.inputmethod.InputConnection
+    public final boolean performPrivateCommand(String str, Bundle bundle) {
+        boolean z;
+        String str2;
+        ResultReceiver resultReceiver;
+        String str3;
+        String str4;
+        String str5;
+        String str6;
+        String str7;
+        C0435o0OoO000 c0435o0OoO000 = this.OooO00o;
+        boolean z2 = false;
+        z2 = false;
+        z2 = false;
+        z2 = false;
+        if (bundle != null) {
+            if (TextUtils.equals("androidx.core.view.inputmethod.InputConnectionCompat.COMMIT_CONTENT", str)) {
+                z = false;
+            } else {
+                z = TextUtils.equals("android.support.v13.view.inputmethod.InputConnectionCompat.COMMIT_CONTENT", str) ? true : true;
+            }
+            if (z) {
+                str2 = "android.support.v13.view.inputmethod.InputConnectionCompat.CONTENT_RESULT_RECEIVER";
+            } else {
+                str2 = "androidx.core.view.inputmethod.InputConnectionCompat.CONTENT_RESULT_RECEIVER";
+            }
+            try {
+                resultReceiver = (ResultReceiver) bundle.getParcelable(str2);
+                if (z) {
+                    str3 = "android.support.v13.view.inputmethod.InputConnectionCompat.CONTENT_URI";
+                } else {
+                    str3 = "androidx.core.view.inputmethod.InputConnectionCompat.CONTENT_URI";
+                }
+                try {
+                    Uri uri = (Uri) bundle.getParcelable(str3);
+                    if (z) {
+                        str4 = "android.support.v13.view.inputmethod.InputConnectionCompat.CONTENT_DESCRIPTION";
+                    } else {
+                        str4 = "androidx.core.view.inputmethod.InputConnectionCompat.CONTENT_DESCRIPTION";
+                    }
+                    ClipDescription clipDescription = (ClipDescription) bundle.getParcelable(str4);
+                    if (z) {
+                        str5 = "android.support.v13.view.inputmethod.InputConnectionCompat.CONTENT_LINK_URI";
+                    } else {
+                        str5 = "androidx.core.view.inputmethod.InputConnectionCompat.CONTENT_LINK_URI";
+                    }
+                    Uri uri2 = (Uri) bundle.getParcelable(str5);
+                    if (z) {
+                        str6 = "android.support.v13.view.inputmethod.InputConnectionCompat.CONTENT_FLAGS";
+                    } else {
+                        str6 = "androidx.core.view.inputmethod.InputConnectionCompat.CONTENT_FLAGS";
+                    }
+                    int i = bundle.getInt(str6);
+                    if (z) {
+                        str7 = "android.support.v13.view.inputmethod.InputConnectionCompat.CONTENT_OPTS";
+                    } else {
+                        str7 = "androidx.core.view.inputmethod.InputConnectionCompat.CONTENT_OPTS";
+                    }
+                    Bundle bundle2 = (Bundle) bundle.getParcelable(str7);
+                    if (uri != null && clipDescription != null) {
+                        z2 = c0435o0OoO000.OooO00o(new C0331o0O0oo(uri, clipDescription, uri2), i, bundle2);
+                    }
+                    if (resultReceiver != null) {
+                        resultReceiver.send(z2 ? 1 : 0, null);
+                    }
+                } catch (Throwable th) {
+                    th = th;
+                    if (resultReceiver != null) {
+                        resultReceiver.send(0, null);
+                    }
+                    throw th;
+                }
+            } catch (Throwable th2) {
+                throw th2;
+            }
+        }
+        if (z2) {
+            return true;
+        }
+        return super.performPrivateCommand(str, bundle);
+    }
+}
+
+

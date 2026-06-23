@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="cursorColor" format="color|reference" />
+    <attr name="cursorErrorColor" format="color|reference" />
+    <attr name="autoAdjustToWithinGrandparentBounds" format="boolean" />
+    <attr name="maxNumber" format="integer" />
+</resources>

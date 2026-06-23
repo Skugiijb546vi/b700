@@ -1,0 +1,2414 @@
+[
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_res_0x7f08001c_mtrl_checkbox_button_icon_unchecked_indeterminate__0.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/res_0x7f08001c_mtrl_checkbox_button_icon_unchecked_indeterminate__0.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_choice_chip_ripple_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_choice_chip_ripple_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_dialog_slide_down.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/dialog_slide_down.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout-land_material_timepicker.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout-land/material_timepicker.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_btn_colored_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_ic_nav_resellers.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/ic_nav_resellers.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout-land_material_clock_period_toggle_land.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout-land/material_clock_period_toggle_land.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_mtrl_picker_header_selection_text.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/mtrl_picker_header_selection_text.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_mtrl_ic_checkbox_unchecked.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/mtrl_ic_checkbox_unchecked.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_textfield_activated_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_textfield_activated_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_design_menu_item_action_area.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_mtrl_calendar_horizontal.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/mtrl_calendar_horizontal.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_navigation_item_icon_tint.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_navigation_item_icon_tint.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_fragment_settings.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_bg_account_card_active.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/bg_account_card_active.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_btn_text_btn_bg_color_selector.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_btn_text_btn_bg_color_selector.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_tab_indicator_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_tab_indicator_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_m3_bottom_sheet_slide_in.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/m3_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_list_longpressed_holo.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_list_longpressed_holo.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_mtrl_ic_indeterminate.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/mtrl_ic_indeterminate.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_imuxuan.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/imuxuan.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_spinner_mtrl_am_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_spinner_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_btn_radio_to_off_mtrl_ring_outer_animation.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_mtrl_picker_fullscreen.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/mtrl_picker_fullscreen.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_btn_checkbox_unchecked_mtrl.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_ic_content_paste.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/ic_content_paste.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_tab_indicator_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_tab_indicator_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_ic_mtrl_chip_checked_circle.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/ic_mtrl_chip_checked_circle.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_linear_indeterminate_line1_tail_interpolator.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/linear_indeterminate_line1_tail_interpolator.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/interpolator_fast_out_slow_in.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/interpolator/fast_out_slow_in.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_mtrl_auto_complete_simple_item.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/mtrl_auto_complete_simple_item.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_notification_bg_normal_pressed.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/notification_bg_normal_pressed.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_card_view_ripple.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_card_view_ripple.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_textfield_search_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_res_0x7f080021_mtrl_checkbox_button_unchecked_checked__2.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/res_0x7f080021_mtrl_checkbox_button_unchecked_checked__2.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_select_dialog_multichoice_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_ab_share_pack_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_ab_share_pack_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_list_selector_disabled_holo_dark.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_list_selector_disabled_holo_dark.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_activity_welcome.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_ic_telegram_social.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/ic_telegram_social.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_material_clockface_view.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/material_clockface_view.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_scrubber_track_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_scrubber_track_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_mtrl_checkbox_button_icon.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/mtrl_checkbox_button_icon.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_design_text_input_end_icon.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/design_text_input_end_icon.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_btn_radio_off_mtrl.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_btn_stroke_color_selector.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_btn_stroke_color_selector.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_list_divider_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_list_divider_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_mtrl_alert_dialog.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/mtrl_alert_dialog.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_ic_nav_home.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/ic_nav_home.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_abc_dialog_title_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_list_longpressed_holo.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_list_longpressed_holo.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_textfield_search_default_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_material_time_input.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/material_time_input.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_mtrl_picker_actions.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/mtrl_picker_actions.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/interpolator_mtrl_fast_out_linear_in.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/interpolator/mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_text_select_handle_middle_mtrl.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_text_select_handle_middle_mtrl.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_mtrl_bottom_sheet_slide_in.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/mtrl_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_abc_action_menu_item_layout.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_calendar_item_stroke_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_calendar_item_stroke_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/animator_mtrl_extended_fab_state_list_animator.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/animator/mtrl_extended_fab_state_list_animator.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxxhdpi_abc_spinner_mtrl_am_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxxhdpi/abc_spinner_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_popup_background_mtrl_mult.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_popup_background_mtrl_mult.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_mtrl_checkbox_button_icon_unchecked_indeterminate.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/mtrl_checkbox_button_icon_unchecked_indeterminate.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_mtrl_picker_header_title_text.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/mtrl_picker_header_title_text.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_test_level_drawable.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/test_level_drawable.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_mtrl_popupmenu_background.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/mtrl_popupmenu_background.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout-v22_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout-v22/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_ic_menu_copy_mtrl_am_alpha.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout-watch_abc_alert_dialog_title_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout-watch/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_choice_chip_background_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_choice_chip_background_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_mtrl_dropdown_arrow.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/mtrl_dropdown_arrow.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_star_black_48dp.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_star_black_48dp.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_textfield_search_activated_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_design_fab_background.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_tabs_ripple_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_tabs_ripple_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_fragment_splash.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_abc_tint_seek_thumb.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxxhdpi_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxxhdpi/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color-night_material_timepicker_clockface.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color-night/material_timepicker_clockface.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_whatsapp.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/whatsapp.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_mtrl_checkbox_button_icon_unchecked_checked.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/mtrl_checkbox_button_icon_unchecked_checked.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_res_0x7f080004_avd_show_password__1.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/res_0x7f080004_avd_show_password__1.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_list_pressed_holo_dark.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_list_pressed_holo_dark.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/animator_design_fab_show_motion_spec.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/animator/design_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_res_0x7f080013_mtrl_checkbox_button_icon_checked_unchecked__1.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/res_0x7f080013_mtrl_checkbox_button_icon_checked_unchecked__1.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_material_clock_display.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/material_clock_display.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_bg_icon_circle_accent.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/bg_icon_circle_accent.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_spinner_dropdown_item_white.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/spinner_dropdown_item_white.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_abc_list_menu_item_radio.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_action_bar_item_background_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_tooltip_frame_dark.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_notification_template_custom_big.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_mtrl_checkbox_button_icon_checked_indeterminate.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/mtrl_checkbox_button_icon_checked_indeterminate.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_textfield_search_default_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_list_selector_disabled_holo_light.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_list_selector_disabled_holo_light.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_navigation_item_background_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_navigation_item_background_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_res_0x7f080012_mtrl_checkbox_button_icon_checked_unchecked__0.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/res_0x7f080012_mtrl_checkbox_button_icon_checked_unchecked__0.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_btn_radio_on_to_off_mtrl_animation.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/btn_radio_on_to_off_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_bg_gradient_dark.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/bg_gradient_dark.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_popup_background_mtrl_mult.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_popup_background_mtrl_mult.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/interpolator_mtrl_linear.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/interpolator/mtrl_linear.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_design_box_stroke_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/design_box_stroke_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_tab_indicator_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_notification_bg_low_normal.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/notification_bg_low_normal.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_filled_stroke_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_filled_stroke_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_textfield_activated_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_textfield_activated_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_abc_tooltip_enter.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_material_ic_edit_black_24dp.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/material_ic_edit_black_24dp.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_dialog_join_telegram.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/dialog_join_telegram.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout-v26_mtrl_calendar_month.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout-v26/mtrl_calendar_month.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_mtrl_checkbox_button_unchecked_checked.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/mtrl_checkbox_button_unchecked_checked.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_list_divider_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_list_divider_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/animator_fragment_fade_exit.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/animator/fragment_fade_exit.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_textfield_search_default_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_textfield_search_default_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/interpolator_btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_mtrl_checkbox_button.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/mtrl_checkbox_button.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_btn_radio_to_on_mtrl_ring_outer_path_animation.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_res_0x7f080005_avd_show_password__2.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/res_0x7f080005_avd_show_password__2.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_btn_checkbox_to_unchecked_check_path_merged_animation.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_textfield_search_activated_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_textfield_activated_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_textfield_activated_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_material_cursor_drawable.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/material_cursor_drawable.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_abc_screen_simple.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_material_ic_menu_arrow_down_black_24dp.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/material_ic_menu_arrow_down_black_24dp.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxxhdpi_abc_switch_track_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxxhdpi/abc_switch_track_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_notification_bg_low_pressed.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/notification_bg_low_pressed.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_abc_search_url_text.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-watch_abc_dialog_material_background.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-watch/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_mtrl_calendar_month_labeled.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/mtrl_calendar_month_labeled.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_list_focused_holo.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_list_focused_holo.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_notification_template_icon_group.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_material_on_surface_emphasis_high_type.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/material_on_surface_emphasis_high_type.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_spinner_item_white.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/spinner_item_white.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_abc_list_menu_item_icon.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_linear_indeterminate_line2_tail_interpolator.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/linear_indeterminate_line2_tail_interpolator.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout-land_mtrl_picker_header_dialog.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout-land/mtrl_picker_header_dialog.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_btn_radio_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_fab_ripple_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_fab_ripple_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_material_time_chip.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/material_time_chip.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_btn_checkbox_checked_to_unchecked_mtrl_animation.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_abc_hint_foreground_material_dark.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_switch_track_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_switch_track_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout-watch_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout-watch/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_chip_close_icon_tint.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_chip_close_icon_tint.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_btn_borderless_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_on_surface_ripple_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_on_surface_ripple_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_text_select_handle_left_mtrl.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_text_select_handle_left_mtrl.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_mtrl_popupmenu_background_overlay.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/mtrl_popupmenu_background_overlay.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_mtrl_ic_arrow_drop_down.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/mtrl_ic_arrow_drop_down.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_seekbar_tick_mark_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_ic_voice_search_api_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_switch_thumb_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_btn_radio_to_on_mtrl_ring_outer_animation.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_notification_template_part_chronometer.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/animator_fragment_close_exit.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/animator/fragment_close_exit.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_list_pressed_holo_dark.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_list_pressed_holo_dark.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_cab_background_top_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_notification_bg_low_normal.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/notification_bg_low_normal.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_app_logo.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/app_logo.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_ic_update_download.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/ic_update_download.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00012.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_mtrl_navigation_bar_item_background.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/mtrl_navigation_bar_item_background.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_notification_template_part_time.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_list_divider_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_mtrl_picker_header_toggle.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/mtrl_picker_header_toggle.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_list_pressed_holo_dark.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_list_pressed_holo_dark.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_ic_clear_field.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/ic_clear_field.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_btn_check_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_switch_thumb_material_dark.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_design_bottom_navigation_item.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_dialog_contact_reseller.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/dialog_contact_reseller.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_notification_bg_normal.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/notification_bg_normal.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_res_0x7f080014_mtrl_checkbox_button_icon_checked_unchecked__2.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/res_0x7f080014_mtrl_checkbox_button_icon_checked_unchecked__2.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_ic_person_outline.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/ic_person_outline.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_ic_menu_overflow_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_res_0x7f08001d_mtrl_checkbox_button_icon_unchecked_indeterminate__1.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/res_0x7f08001d_mtrl_checkbox_button_icon_unchecked_indeterminate__1.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_mtrl_calendar_day.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/mtrl_calendar_day.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_spinner_mtrl_am_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_spinner_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_bg_active_dot.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/bg_active_dot.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_ic_nav_settings.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/ic_nav_settings.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_material_timepicker_button_stroke.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/material_timepicker_button_stroke.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_btn_checkbox_to_unchecked_box_inner_merged_animation.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_text_btn_text_color_selector.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_text_btn_text_color_selector.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_design_text_input_start_icon.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/design_text_input_start_icon.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_setting.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/setting.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_ic_lock_outline.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/ic_lock_outline.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_list_longpressed_holo.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_list_longpressed_holo.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_list_pressed_holo_light.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_list_pressed_holo_light.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_filled_background_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_filled_background_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_spinner_mtrl_am_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_bg_update_version_badge.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/bg_update_version_badge.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_menu_hardkey_panel_mtrl_mult.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_menu_hardkey_panel_mtrl_mult.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_abc_cascading_menu_item_layout.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_bg_paste_chip.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/bg_paste_chip.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_scrubber_track_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_scrubber_track_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_edit_text_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_menu_hardkey_panel_mtrl_mult.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_design_navigation_menu_item.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_mtrl_ic_cancel.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/mtrl_ic_cancel.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/animator_mtrl_btn_state_list_anim.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/animator/mtrl_btn_state_list_anim.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-ldrtl-xxxhdpi_abc_spinner_mtrl_am_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-ldrtl-xxxhdpi/abc_spinner_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_res_0x7f08000e_mtrl_checkbox_button_checked_unchecked__0.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/res_0x7f08000e_mtrl_checkbox_button_checked_unchecked__0.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_fragment_login.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_text_select_handle_right_mtrl.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_text_select_handle_right_mtrl.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_chip_surface_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_chip_surface_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_list_focused_holo.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_list_focused_holo.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_navigation_bar_ripple_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_navigation_bar_ripple_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_btn_radio_material_anim.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_btn_radio_material_anim.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_btn_switch_to_on_mtrl_00012.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00012.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_ic_menu_paste_mtrl_am_alpha.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_btn_radio_to_off_mtrl_ring_outer_path_animation.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color-v23_abc_tint_spinner.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_notification_bg_normal.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/notification_bg_normal.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_abc_expanded_menu_layout.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_calendar_selected_range.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_calendar_selected_range.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_list_selector_disabled_holo_light.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_list_selector_disabled_holo_light.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_textfield_activated_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_design_icon_tint.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/design_icon_tint.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_list_selector_disabled_holo_dark.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_list_selector_disabled_holo_dark.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_text_select_handle_left_mtrl.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_text_select_handle_left_mtrl.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_bg_reseller_item.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/bg_reseller_item.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color-v23_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_dialog_update.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/dialog_update.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_abc_screen_content_include.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_ic_nav_account.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/ic_nav_account.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-v23_abc_control_background_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/animator_design_fab_hide_motion_spec.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/animator/design_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_abc_tint_spinner.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_chip_background_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_chip_background_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_mtrl_calendar_days_of_week.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/mtrl_calendar_days_of_week.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_material_on_surface_disabled.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/material_on_surface_disabled.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_res_0x7f080020_mtrl_checkbox_button_unchecked_checked__1.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/res_0x7f080020_mtrl_checkbox_button_unchecked_checked__1.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_mtrl_ic_arrow_drop_up.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/mtrl_ic_arrow_drop_up.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_telegram.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/telegram.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_list_focused_holo.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_list_focused_holo.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_dialog_loading.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/dialog_loading.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_text_select_handle_middle_mtrl.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_text_select_handle_middle_mtrl.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color-v23_abc_tint_switch_track.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_bg_reseller_avatar.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/bg_reseller_avatar.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_material_radial_view_group.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/material_radial_view_group.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_popup_background_mtrl_mult.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_popup_background_mtrl_mult.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_material_timepicker_clock_text_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/material_timepicker_clock_text_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_scrubber_primary_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_scrubber_primary_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_ic_menu_selectall_mtrl_alpha.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_ic_menu_selectall_mtrl_alpha.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_material_clock_period_toggle.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/material_clock_period_toggle.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_scrubber_track_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_scrubber_track_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_ab_share_pack_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_ab_share_pack_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_abc_tint_switch_track.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_notify_panel_notification_icon_bg.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_item_account_card.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/item_account_card.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_res_0x7f080017_mtrl_checkbox_button_icon_indeterminate_unchecked__1.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/res_0x7f080017_mtrl_checkbox_button_icon_indeterminate_unchecked__1.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_btn_radio_to_on_mtrl_dot_group_animation.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/btn_radio_to_on_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_notification_bg_low.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_list_longpressed_holo.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_list_longpressed_holo.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_textfield_search_activated_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_textfield_search_activated_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color-v23_abc_tint_btn_checkable.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_bg_update_button.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/bg_update_button.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_btn_bg_color_selector.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_btn_bg_color_selector.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_ratingbar_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_m3_bottom_sheet_slide_out.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/m3_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_abc_popup_exit.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_avd_hide_password.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/avd_hide_password.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_ic_support_agent.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/ic_support_agent.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_cab_background_top_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_cab_background_top_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_btn_ripple_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_btn_ripple_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_btn_switch_to_on_mtrl_00001.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_btn_switch_to_on_mtrl_00001.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_mtrl_alert_select_dialog_multichoice.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/mtrl_alert_select_dialog_multichoice.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_res_0x7f080002_avd_hide_password__2.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/res_0x7f080002_avd_hide_password__2.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_switch_track_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_switch_track_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_design_snackbar_background.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_design_error.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/design_error.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_list_selector_disabled_holo_light.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_list_selector_disabled_holo_light.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_activity_launcher.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/activity_launcher.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_scrubber_primary_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_scrubber_primary_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_material_timepicker_modebutton_tint.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/material_timepicker_modebutton_tint.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_notify_panel_notification_icon_bg.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_bg_icon_circle.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/bg_icon_circle.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/animator_mtrl_card_state_list_anim.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/animator/mtrl_card_state_list_anim.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_btn_checkbox_unchecked_to_checked_mtrl_animation.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_dialog_rename_account.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/dialog_rename_account.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_switch_track_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_switch_track_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_scrubber_primary_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_scrubber_primary_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_fragment_resellers.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/fragment_resellers.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_mtrl_dialog_background.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/mtrl_dialog_background.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_m3_side_sheet_exit_to_left.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/m3_side_sheet_exit_to_left.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00001.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00001.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_notification_action.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/notification_action.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_chip_text_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_chip_text_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_abc_action_bar_title_item.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_notification_icon_background.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_scrubber_primary_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_scrubber_primary_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_popupmenu_overlay_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_popupmenu_overlay_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_abc_screen_toolbar.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_bg_update_icon_circle.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/bg_update_icon_circle.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_textfield_search_default_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_textfield_search_default_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_btn_radio_to_off_mtrl_dot_group_animation.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/btn_radio_to_off_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_material_slider_inactive_track_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/material_slider_inactive_track_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_list_pressed_holo_dark.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_list_pressed_holo_dark.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_select_dialog_item_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_abc_alert_dialog_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_cab_background_top_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_material_slider_active_track_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/material_slider_active_track_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_material_slider_inactive_tick_marks_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/material_slider_inactive_tick_marks_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_abc_secondary_text_material_light.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/animator_design_appbar_state_list_animator.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/animator/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_res_0x7f080015_mtrl_checkbox_button_icon_indeterminate_checked__0.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/res_0x7f080015_mtrl_checkbox_button_icon_indeterminate_checked__0.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_cab_background_top_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_cab_background_top_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_res_0x7f080003_avd_show_password__0.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/res_0x7f080003_avd_show_password__0.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_background.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/background.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/interpolator_m3_sys_motion_easing_emphasized.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/interpolator/m3_sys_motion_easing_emphasized.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_bg_input_dark.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/bg_input_dark.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_ic_clear_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00012.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00012.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color-v23_abc_tint_edittext.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_on_primary_text_btn_text_color_selector.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_on_primary_text_btn_text_color_selector.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_ab_share_pack_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_ab_share_pack_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_res_0x7f08001b_mtrl_checkbox_button_icon_unchecked_checked__2.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/res_0x7f08001b_mtrl_checkbox_button_icon_unchecked_checked__2.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_abc_tooltip_exit.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_btn_checkbox_to_checked_icon_null_animation.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/btn_checkbox_to_checked_icon_null_animation.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_design_bottom_sheet_slide_out.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxxhdpi_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxxhdpi/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_ab_share_pack_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_ab_share_pack_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_design_bottom_sheet_slide_in.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_bg_timer_digit.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/bg_timer_digit.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/xml_network_security_config.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_mtrl_checkbox_button_icon_indeterminate_checked.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/mtrl_checkbox_button_icon_indeterminate_checked.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_input_box_stroke.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/input_box_stroke.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxxhdpi_abc_tab_indicator_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxxhdpi/abc_tab_indicator_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_mtrl_picker_header_fullscreen.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/mtrl_picker_header_fullscreen.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_text_cursor_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_ic_search_api_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_text_select_handle_right_mtrl.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_text_select_handle_right_mtrl.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_text_select_handle_left_mtrl.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_text_select_handle_left_mtrl.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color-night_material_timepicker_button_stroke.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color-night/material_timepicker_button_stroke.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_abc_primary_text_material_light.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_material_clock_display_divider.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/material_clock_display_divider.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_mtrl_alert_select_dialog_item.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/mtrl_alert_select_dialog_item.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_material_timepicker_button_background.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/material_timepicker_button_background.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_list_divider_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_list_divider_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_abc_popup_enter.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_text_select_handle_middle_mtrl.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_text_select_handle_middle_mtrl.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_mtrl_calendar_year.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/mtrl_calendar_year.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_btn_checkbox_checked_mtrl.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_material_slider_thumb_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/material_slider_thumb_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_linear_indeterminate_line2_head_interpolator.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/linear_indeterminate_line2_head_interpolator.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_mtrl_checkbox_button_icon_indeterminate_unchecked.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/mtrl_checkbox_button_icon_indeterminate_unchecked.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_material_timepicker.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/material_timepicker.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_material_slider_halo_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/material_slider_halo_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxxhdpi_abc_text_select_handle_left_mtrl.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxxhdpi/abc_text_select_handle_left_mtrl.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_ic_edit.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_abc_search_view.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/interpolator_btn_checkbox_checked_mtrl_animation_interpolator_1.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_notification_bg_low_pressed.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/notification_bg_low_pressed.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_indicator_text_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_indicator_text_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_material_clockface_textview.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/material_clockface_textview.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_btn_checkbox_to_unchecked_icon_null_animation.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/btn_checkbox_to_unchecked_icon_null_animation.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_textfield_default_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_textfield_default_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_btn_switch_to_on_mtrl_00001.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_btn_switch_to_on_mtrl_00001.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_res_0x7f08001a_mtrl_checkbox_button_icon_unchecked_checked__1.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/res_0x7f08001a_mtrl_checkbox_button_icon_unchecked_checked__1.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_nav_item_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/nav_item_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_btn_text_btn_ripple_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_btn_text_btn_ripple_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_design_password_eye.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_ic_mtrl_checked_circle.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/ic_mtrl_checked_circle.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_mtrl_calendar_vertical.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/mtrl_calendar_vertical.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/interpolator_btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_eightbp.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/eightbp.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/menu_menu_main.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_fragment_account.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/fragment_account.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_text_select_handle_right_mtrl.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_text_select_handle_right_mtrl.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_notification_tile_bg.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_btn_switch_to_on_mtrl_00001.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00001.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_res_0x7f08001f_mtrl_checkbox_button_unchecked_checked__0.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/res_0x7f08001f_mtrl_checkbox_button_unchecked_checked__0.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00001.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/animator_fragment_open_enter.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/animator/fragment_open_enter.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_linear_indeterminate_line1_head_interpolator.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/linear_indeterminate_line1_head_interpolator.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_notification_oversize_large_icon_bg.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/notification_oversize_large_icon_bg.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_ic_menu_share_mtrl_alpha.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_ic_menu_share_mtrl_alpha.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_m3_side_sheet_enter_from_right.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/m3_side_sheet_enter_from_right.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_res_0x7f080018_mtrl_checkbox_button_icon_indeterminate_unchecked__2.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/res_0x7f080018_mtrl_checkbox_button_icon_indeterminate_unchecked__2.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/animator_mtrl_chip_state_list_anim.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/animator/mtrl_chip_state_list_anim.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_ic_mtrl_chip_checked_black.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_notification_bg.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_tooltip_frame_light.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_notification_bg_low_pressed.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/notification_bg_low_pressed.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_tab_indicator_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_list_divider_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_list_divider_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_card_view_foreground.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_card_view_foreground.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_material_ic_keyboard_arrow_left_black_24dp.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/material_ic_keyboard_arrow_left_black_24dp.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color-night_material_timepicker_modebutton_tint.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color-night/material_timepicker_modebutton_tint.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_bg_loading_dialog.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/bg_loading_dialog.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_res_0x7f080016_mtrl_checkbox_button_icon_indeterminate_unchecked__0.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/res_0x7f080016_mtrl_checkbox_button_icon_indeterminate_unchecked__0.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/animator_fragment_fade_enter.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/animator/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_mtrl_picker_dialog.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/mtrl_picker_dialog.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_notification_bg_low_normal.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/notification_bg_low_normal.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_m3_side_sheet_enter_from_left.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/m3_side_sheet_enter_from_left.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_tabs_legacy_text_color_selector.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_tabs_legacy_text_color_selector.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_choice_chip_text_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_choice_chip_text_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_mtrl_alert_dialog_actions.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/mtrl_alert_dialog_actions.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_navigation_item_text_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_navigation_item_text_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_abc_tint_edittext.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_btn_text_color_selector.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_btn_text_color_selector.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color-v23_abc_tint_seek_thumb.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_navigation_bar_item_tint.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_navigation_bar_item_tint.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_mtrl_checkbox_button_icon_checked_unchecked.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/mtrl_checkbox_button_icon_checked_unchecked.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_mtrl_tabs_default_indicator.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/mtrl_tabs_default_indicator.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_btn_checkbox_to_checked_box_outer_merged_animation.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_notify_panel_notification_icon_bg.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_bg_reseller_card.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/bg_reseller_card.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_cab_background_top_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_cab_background_top_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_fab_bg_color_selector.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_fab_bg_color_selector.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_notification_action_tombstone.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_res_0x7f080010_mtrl_checkbox_button_checked_unchecked__2.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/res_0x7f080010_mtrl_checkbox_button_checked_unchecked__2.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_list_selector_disabled_holo_dark.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_textfield_default_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_dialog_resellers.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/dialog_resellers.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_res_0x7f080011_mtrl_checkbox_button_icon_checked_indeterminate__0.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/res_0x7f080011_mtrl_checkbox_button_icon_checked_indeterminate__0.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-ldrtl-xxhdpi_abc_spinner_mtrl_am_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-ldrtl-xxhdpi/abc_spinner_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_material_slider_active_tick_marks_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/material_slider_active_tick_marks_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_abc_tooltip.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_mtrl_card_lowers_interpolator.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/mtrl_card_lowers_interpolator.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_mtrl_checkbox_button_checked_unchecked.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/mtrl_checkbox_button_checked_unchecked.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_ic_check_circle_green.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/ic_check_circle_green.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_fragment_fast_out_extra_slow_in.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_avd_show_password.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/avd_show_password.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_ratingbar_indicator_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_mtrl_calendar_month.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/mtrl_calendar_month.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_en_floating_view.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/en_floating_view.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_text_select_handle_left_mtrl.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_text_select_handle_left_mtrl.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout-v22_mtrl_alert_dialog_actions.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout-v22/mtrl_alert_dialog_actions.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_switch_thumb_material_light.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_item_region_header.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/item_region_header.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_spinner_mtrl_am_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_spinner_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_list_pressed_holo_light.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_list_pressed_holo_light.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_material_ic_clear_black_24dp.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/material_ic_clear_black_24dp.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_mtrl_bottom_sheet_slide_out.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/mtrl_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_vector_test.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_mtrl_ic_checkbox_checked.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/mtrl_ic_checkbox_checked.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout-v26_abc_screen_toolbar.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout-v26/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_res_0x7f080000_avd_hide_password__0.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/res_0x7f080000_avd_hide_password__0.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_list_selector_disabled_holo_dark.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_list_selector_disabled_holo_dark.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_notification_action_background.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/notification_action_background.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_bg_button_gradient.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/bg_button_gradient.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_btn_checkbox_to_checked_box_inner_merged_animation.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-v23_mtrl_popupmenu_background_overlay.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-v23/mtrl_popupmenu_background_overlay.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_res_0x7f080019_mtrl_checkbox_button_icon_unchecked_checked__0.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/res_0x7f080019_mtrl_checkbox_button_icon_unchecked_checked__0.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/interpolator_mtrl_linear_out_slow_in.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/interpolator/mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color-v23_abc_tint_default.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_abc_list_menu_item_layout.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_textfield_default_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_textfield_default_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/animator_mtrl_btn_unelevated_state_list_anim.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/animator/mtrl_btn_unelevated_state_list_anim.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_res_0x7f08001e_mtrl_checkbox_button_icon_unchecked_indeterminate__2.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/res_0x7f08001e_mtrl_checkbox_button_icon_unchecked_indeterminate__2.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_abc_tint_default.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_item_reseller.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/item_reseller.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_textfield_default_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_textfield_default_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_notification_bg_normal_pressed.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/notification_bg_normal_pressed.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/animator_mtrl_fab_hide_motion_spec.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/animator/mtrl_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_abc_action_menu_layout.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_menu_hardkey_panel_mtrl_mult.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_material_ic_calendar_black_24dp.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/material_ic_calendar_black_24dp.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_abc_primary_text_material_dark.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_bg_version_badge.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/bg_version_badge.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/xml_file_paths.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_btn_switch_to_on_mtrl_00012.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/animator_mtrl_fab_show_motion_spec.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/animator/mtrl_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/interpolator_btn_checkbox_checked_mtrl_animation_interpolator_0.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_outlined_stroke_color.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_outlined_stroke_color.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_outlined_icon_tint.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_outlined_icon_tint.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_material_on_surface_emphasis_medium.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/material_on_surface_emphasis_medium.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_design_ic_visibility.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_bg_account_card_inactive.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/bg_account_card_inactive.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_menu_hardkey_panel_mtrl_mult.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_menu_hardkey_panel_mtrl_mult.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_ic_go_search_api_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxxhdpi_abc_text_select_handle_right_mtrl.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxxhdpi/abc_text_select_handle_right_mtrl.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_text_select_handle_middle_mtrl.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_text_select_handle_middle_mtrl.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_fragment_home.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_btn_radio_off_to_on_mtrl_animation.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/btn_radio_off_to_on_mtrl_animation.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_popup_background_mtrl_mult.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_popup_background_mtrl_mult.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_seekbar_track_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_res_0x7f08000f_mtrl_checkbox_button_checked_unchecked__1.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/res_0x7f08000f_mtrl_checkbox_button_checked_unchecked__1.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_list_focused_holo.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_list_focused_holo.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_notification_bg_normal_pressed.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/notification_bg_normal_pressed.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_dialog_slide_up.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/dialog_slide_up.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_list_pressed_holo_light.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_list_pressed_holo_light.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-ldrtl-mdpi_abc_spinner_mtrl_am_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-ldrtl-mdpi/abc_spinner_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_notification_bg_normal.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/notification_bg_normal.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_mtrl_calendar_month_navigation.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/mtrl_calendar_month_navigation.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_ratingbar_small_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_mtrl_ic_check_mark.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/mtrl_ic_check_mark.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_abc_secondary_text_material_dark.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-ldrtl-hdpi_abc_spinner_mtrl_am_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-ldrtl-hdpi/abc_spinner_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_bg_update_dialog.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/bg_update_dialog.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_abc_hint_foreground_material_light.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_btn_radio_on_mtrl.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/xml_filepath.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/xml/filepath.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xxhdpi_abc_list_pressed_holo_light.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xxhdpi/abc_list_pressed_holo_light.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_ic_mtrl_chip_close_circle.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_mtrl_picker_header_dialog.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/mtrl_picker_header_dialog.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_scrubber_track_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_scrubber_track_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color-v23_abc_color_highlight_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_indeterminate_static.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/indeterminate_static.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/interpolator_btn_radio_to_on_mtrl_animation_interpolator_0.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_navigation_empty_icon.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_switch_track_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_switch_track_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_btn_check_material_anim.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_btn_check_material_anim.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_seekbar_thumb_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_mtrl_alert_dialog_title.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/mtrl_alert_dialog_title.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_textfield_search_activated_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_textfield_search_activated_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_star_half_black_48dp.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_star_half_black_48dp.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/interpolator_btn_radio_to_off_mtrl_animation_interpolator_0.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/animator_fragment_open_exit.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/animator/fragment_open_exit.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_abc_tint_btn_checkable.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_tabs_icon_color_selector.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_tabs_icon_color_selector.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_item_background_holo_light.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_mtrl_calendar_months.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/mtrl_calendar_months.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/animator_fragment_close_enter.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/animator/fragment_close_enter.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_filled_icon_tint.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_filled_icon_tint.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-ldrtl-xhdpi_abc_spinner_mtrl_am_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-ldrtl-xhdpi/abc_spinner_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/interpolator_mtrl_fast_out_slow_in.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/interpolator/mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_mtrl_calendar_day_of_week.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/mtrl_calendar_day_of_week.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_bg_logout_button.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/bg_logout_button.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_tab_indicator_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_tab_indicator_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_mtrl_alert_select_dialog_singlechoice.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/mtrl_alert_select_dialog_singlechoice.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_design_ic_visibility_off.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_abc_select_dialog_material.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-xhdpi_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-xhdpi/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_list_selector_disabled_holo_light.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_list_selector_disabled_holo_light.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_fab_icon_text_color_selector.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_fab_icon_text_color_selector.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_ic_menu_cut_mtrl_alpha.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_ic_menu_cut_mtrl_alpha.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_dialog_material_background.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_material_timepicker_clockface.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/material_timepicker_clockface.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_material_ic_keyboard_arrow_right_black_24dp.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/material_ic_keyboard_arrow_right_black_24dp.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_res_0x7f080001_avd_hide_password__1.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/res_0x7f080001_avd_hide_password__1.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-mdpi_abc_btn_switch_to_on_mtrl_00012.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-mdpi/abc_btn_switch_to_on_mtrl_00012.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout-v22_item_reseller.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout-v22/item_reseller.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable-hdpi_abc_text_select_handle_right_mtrl.png.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable-hdpi/abc_text_select_handle_right_mtrl.png"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/color_mtrl_error.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/color/mtrl_error.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/drawable_mtrl_ic_error.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/drawable/mtrl_ic_error.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/anim_m3_side_sheet_exit_to_right.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/anim/m3_side_sheet_exit_to_right.xml"
+    },
+    {
+        "merged": "com.ninja.engine.app-merged_res-29:/layout_abc_action_mode_bar.xml.flat",
+        "source": "com.ninja.engine.app-main-31:/layout/abc_action_mode_bar.xml"
+    }
+]

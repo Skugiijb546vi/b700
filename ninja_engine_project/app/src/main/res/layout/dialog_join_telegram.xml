@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center_horizontal" android:orientation="vertical" android:background="@drawable/bg_loading_dialog" android:paddingTop="32dp" android:paddingBottom="28dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="28dp" android:paddingEnd="28dp">
+    <ImageView android:layout_width="48dp" android:layout_height="48dp" android:src="@drawable/ic_telegram_social" android:contentDescription="@string/telegram"/>
+    <TextView android:textSize="16sp" android:textStyle="bold" android:textColor="#ffffff" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16dp" android:text="@string/fk_disabled_message"/>
+    <Button android:textSize="15sp" android:textStyle="bold" android:textColor="#ffffff" android:id="@+id/btn_join_channel" android:background="@drawable/bg_button_gradient" android:layout_width="match_parent" android:layout_height="48dp" android:layout_marginTop="24dp" android:text="@string/fk_join_channel" android:textAllCaps="false" android:stateListAnimator="@null"/>
+</LinearLayout>

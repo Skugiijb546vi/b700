@@ -1,0 +1,89 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ninja.engine.app-mergeDebugResources-27:/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sarko\\Downloads\\ninja_engine_project\\app\\src\\main\\res\\values-sw600dp\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "244"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "1348",
+                        "endLines": "24",
+                        "endColumns": "12",
+                        "endOffsets": "1532"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\sarko\\.gradle\\caches\\transforms-3\\4728ea5fc0432aa50c584337c74ba5ce\\transformed\\appcompat-1.6.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "8,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "472,543",
+                        "endColumns": "70,67",
+                        "endOffsets": "538,606"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\sarko\\Downloads\\ninja_engine_project\\app\\src\\main\\res\\values-sw600dp\\integers.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "62",
+                        "endOffsets": "115"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1285",
+                        "endColumns": "62",
+                        "endOffsets": "1343"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\sarko\\Downloads\\ninja_engine_project\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,127,197,268,343,420,480,541,612,684,743,802,909,966",
+                        "endColumns": "68,68,69,73,75,58,59,69,70,57,57,105,55,58",
+                        "endOffsets": "121,191,262,337,414,474,535,606,678,737,796,903,960,1020"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,10,11,12,14,15,16,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,611,671,741,884,942,1000,1170,1226",
+                        "endColumns": "68,68,69,73,75,58,59,69,70,57,57,105,55,58",
+                        "endOffsets": "119,188,258,332,408,467,666,736,807,937,995,1101,1221,1280"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\sarko\\.gradle\\caches\\transforms-3\\83ec12ef522fb2d65f7e424bd09c6e58\\transformed\\material-1.9.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "5,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "256,553",
+                        "endColumns": "71,63",
+                        "endOffsets": "323,612"
+                    },
+                    "to": {
+                        "startLines": "13,17",
+                        "startColumns": "4,4",
+                        "startOffsets": "812,1106",
+                        "endColumns": "71,63",
+                        "endOffsets": "879,1165"
+                    }
+                }
+            ]
+        }
+    ]
+}

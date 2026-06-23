@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="@drawable/bg_update_dialog" android:padding="24dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <TextView android:textSize="20sp" android:textStyle="bold" android:textColor="@color/white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/dialog_rename_title"/>
+    <EditText android:textSize="16sp" android:textColor="@color/white" android:textColorHint="@color/text_hint" android:id="@+id/et_rename" android:background="@drawable/bg_input_dark" android:paddingLeft="16dp" android:paddingRight="16dp" android:layout_width="match_parent" android:layout_height="48dp" android:layout_marginTop="16dp" android:hint="@string/dialog_rename_hint" android:maxLines="1" android:inputType="text"/>
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="24dp">
+        <com.google.android.material.button.MaterialButton android:textColor="@color/white" android:id="@+id/btn_cancel" android:layout_width="0dp" android:layout_height="45dp" android:text="@string/dialog_cancel" android:layout_weight="1" app:cornerRadius="12dp" app:strokeColor="@color/secondary_text" style="@style/Widget.MaterialComponents.Button.OutlinedButton"/>
+        <com.google.android.material.button.MaterialButton android:textColor="@color/white" android:id="@+id/btn_save" android:layout_width="0dp" android:layout_height="45dp" android:text="@string/dialog_save" android:layout_weight="1" android:layout_marginStart="12dp" android:backgroundTint="@color/PrimaryColor" app:cornerRadius="12dp"/>
+    </LinearLayout>
+</LinearLayout>

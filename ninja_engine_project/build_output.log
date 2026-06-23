@@ -1,0 +1,2402 @@
+﻿WARNING:We recommend using a newer Android Gradle plugin to use compileSdk = 34
+
+This Android Gradle plugin (7.4.2) was tested up to compileSdk = 33
+
+This warning can be suppressed by adding
+    android.suppressUnsupportedCompileSdk=34
+to this project's gradle.properties
+
+The build will continue, but you are strongly encouraged to update your project to
+use a newer Android Gradle Plugin that has been tested with compileSdk = 34
+> Task :app:preBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :app:compileDebugAidl NO-SOURCE
+> Task :app:compileDebugRenderscript NO-SOURCE
+> Task :app:generateDebugBuildConfig UP-TO-DATE
+> Task :app:checkDebugAarMetadata UP-TO-DATE
+> Task :app:generateDebugResValues UP-TO-DATE
+> Task :app:mapDebugSourceSetPaths UP-TO-DATE
+> Task :app:generateDebugResources UP-TO-DATE
+> Task :app:mergeDebugResources UP-TO-DATE
+> Task :app:createDebugCompatibleScreenManifests UP-TO-DATE
+> Task :app:extractDeepLinksDebug UP-TO-DATE
+> Task :app:processDebugMainManifest UP-TO-DATE
+> Task :app:processDebugManifest UP-TO-DATE
+> Task :app:processDebugManifestForPackage UP-TO-DATE
+> Task :app:processDebugResources UP-TO-DATE
+> Task :app:compileDebugKotlin NO-SOURCE
+> Task :app:javaPreCompileDebug UP-TO-DATE
+
+> Task :app:compileDebugJavaWithJavac
+.\gradlew.bat : warning: [options] source value 8 is obsolete and will be 
+removed in a future release
+At line:1 char:64
++ ... e_project"; .\gradlew.bat compileDebugJavaWithJavac --no-build-cache  ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (warning: [optio... future release 
+   :String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+warning: [options] target value 8 is obsolete and will be removed in a future 
+release
+warning: [options] To suppress warnings about obsolete options, use 
+-Xlint:-options.
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+activity\ImmLeaksCleaner.java:1: error: illegal character: '\ufeff'
+?package androidx.activity;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+activity\ImmLeaksCleaner.java:1: error: class, interface, or enum expected
+?package androidx.activity;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+activity\ImmLeaksCleaner.java:3: error: class, interface, or enum expected
+import android.app.Activity;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+activity\ImmLeaksCleaner.java:4: error: class, interface, or enum expected
+import android.view.View;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+activity\ImmLeaksCleaner.java:5: error: class, interface, or enum expected
+import android.view.inputmethod.InputMethodManager;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+activity\ImmLeaksCleaner.java:6: error: class, interface, or enum expected
+import com.ninja.engine.InterfaceC0760oO0O0o0O;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+activity\ImmLeaksCleaner.java:7: error: class, interface, or enum expected
+import com.ninja.engine.InterfaceC1800ooOOOoOo;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+activity\ImmLeaksCleaner.java:8: error: class, interface, or enum expected
+import com.ninja.engine.oO0O0O0o;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+activity\ImmLeaksCleaner.java:9: error: class, interface, or enum expected
+import java.lang.reflect.Field;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:1: error: illegal character: '\ufeff'
+?package androidx.recyclerview.widget;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:1: error: class, interface, or enum 
+expected
+?package androidx.recyclerview.widget;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:3: error: class, interface, or enum 
+expected
+import android.animation.LayoutTransition;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:4: error: class, interface, or enum 
+expected
+import android.content.Context;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:5: error: class, interface, or enum 
+expected
+import android.graphics.Canvas;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:6: error: class, interface, or enum 
+expected
+import android.graphics.Rect;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:7: error: class, interface, or enum 
+expected
+import android.graphics.RectF;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:8: error: class, interface, or enum 
+expected
+import android.os.Build;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:9: error: class, interface, or enum 
+expected
+import android.os.Parcelable;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:10: error: class, interface, or enum 
+expected
+import android.os.SystemClock;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:11: error: class, interface, or enum 
+expected
+import android.os.Trace;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:12: error: class, interface, or enum 
+expected
+import android.util.AttributeSet;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:13: error: class, interface, or enum 
+expected
+import android.util.SparseArray;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:14: error: class, interface, or enum 
+expected
+import android.view.MotionEvent;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:15: error: class, interface, or enum 
+expected
+import android.view.VelocityTracker;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:16: error: class, interface, or enum 
+expected
+import android.view.View;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:17: error: class, interface, or enum 
+expected
+import android.view.ViewConfiguration;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:18: error: class, interface, or enum 
+expected
+import android.view.ViewGroup;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:19: error: class, interface, or enum 
+expected
+import android.view.ViewParent;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:20: error: class, interface, or enum 
+expected
+import android.view.accessibility.AccessibilityEvent;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:21: error: class, interface, or enum 
+expected
+import android.view.accessibility.AccessibilityManager;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:22: error: class, interface, or enum 
+expected
+import android.widget.EdgeEffect;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:23: error: class, interface, or enum 
+expected
+import android.widget.OverScroller;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:24: error: class, interface, or enum 
+expected
+import com.app.framework.core.system.JarConfig;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:25: error: class, interface, or enum 
+expected
+import com.app.framework.utils.FileUtils;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:26: error: class, interface, or enum 
+expected
+import com.ninja.engine.AbstractC0018OooOOo0;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:27: error: class, interface, or enum 
+expected
+import com.ninja.engine.AbstractC1061oOOo0O0O;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:28: error: class, interface, or enum 
+expected
+import com.ninja.engine.AbstractC1064oOOo0OOO;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:29: error: class, interface, or enum 
+expected
+import com.ninja.engine.AbstractC1065oOOo0OOo;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:30: error: class, interface, or enum 
+expected
+import com.ninja.engine.AbstractC1066oOOo0Oo;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:31: error: class, interface, or enum 
+expected
+import com.ninja.engine.AbstractC1069oOOo0Ooo;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:32: error: class, interface, or enum 
+expected
+import com.ninja.engine.AbstractC1071oOOo0o0;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:33: error: class, interface, or enum 
+expected
+import com.ninja.engine.AbstractC1081oOOoO0OO;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:34: error: class, interface, or enum 
+expected
+import com.ninja.engine.AbstractC1083oOOoO0o;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:35: error: class, interface, or enum 
+expected
+import com.ninja.engine.AbstractC1452oo0O000o;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:36: error: class, interface, or enum 
+expected
+import com.ninja.engine.AbstractC1460oo0O00oo;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:37: error: class, interface, or enum 
+expected
+import com.ninja.engine.C0131o00O0o;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:38: error: class, interface, or enum 
+expected
+import com.ninja.engine.C0671o0ooo0O;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:39: error: class, interface, or enum 
+expected
+import com.ninja.engine.C0832oO0o0o00;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:40: error: class, interface, or enum 
+expected
+import com.ninja.engine.C1060oOOo0O0;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:41: error: class, interface, or enum 
+expected
+import com.ninja.engine.C1062oOOo0OO;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:42: error: class, interface, or enum 
+expected
+import com.ninja.engine.C1068oOOo0OoO;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:43: error: class, interface, or enum 
+expected
+import com.ninja.engine.C1070oOOo0o;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:44: error: class, interface, or enum 
+expected
+import com.ninja.engine.C1072oOOo0o0O;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:45: error: class, interface, or enum 
+expected
+import com.ninja.engine.C1073oOOo0o0o;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:46: error: class, interface, or enum 
+expected
+import com.ninja.engine.C1074oOOo0oO;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:47: error: class, interface, or enum 
+expected
+import com.ninja.engine.C1076oOOo0oOO;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:48: error: class, interface, or enum 
+expected
+import com.ninja.engine.C1080oOOoO0O;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:49: error: class, interface, or enum 
+expected
+import com.ninja.engine.C1085oOOoO0oo;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:50: error: class, interface, or enum 
+expected
+import com.ninja.engine.C1126oOOooOO;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:51: error: class, interface, or enum 
+expected
+import com.ninja.engine.C1218oOoOOoo;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:52: error: class, interface, or enum 
+expected
+import com.ninja.engine.C1461oo0O0O;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:53: error: class, interface, or enum 
+expected
+import com.ninja.engine.InterfaceC1063oOOo0OO0;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:54: error: class, interface, or enum 
+expected
+import com.ninja.engine.InterfaceC1075oOOo0oO0;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:55: error: class, interface, or enum 
+expected
+import com.ninja.engine.R;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:56: error: class, interface, or enum 
+expected
+import com.ninja.engine.RunnableC0672o0ooo0o;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:57: error: class, interface, or enum 
+expected
+import com.ninja.engine.RunnableC1058oOOo00oo;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:58: error: class, interface, or enum 
+expected
+import com.ninja.engine.RunnableC1082oOOoO0Oo;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:59: error: class, interface, or enum 
+expected
+import com.ninja.engine.InterpolatorC1047oOOo0;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:60: error: class, interface, or enum 
+expected
+import com.ninja.engine.o0000O;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:61: error: class, interface, or enum 
+expected
+import com.ninja.engine.o0000OO0;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:62: error: class, interface, or enum 
+expected
+import com.ninja.engine.o0O000o0;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:63: error: class, interface, or enum 
+expected
+import com.ninja.engine.oO0OO;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:64: error: class, interface, or enum 
+expected
+import com.ninja.engine.oO0OO00;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:65: error: class, interface, or enum 
+expected
+import com.ninja.engine.oOO0OO0O;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:66: error: class, interface, or enum 
+expected
+import com.ninja.engine.oOO0OOO;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:67: error: class, interface, or enum 
+expected
+import com.ninja.engine.oOOo0O00;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:68: error: class, interface, or enum 
+expected
+import com.ninja.engine.oo000000;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:69: error: class, interface, or enum 
+expected
+import java.lang.ref.WeakReference;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:70: error: class, interface, or enum 
+expected
+import java.util.ArrayList;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\androidx\
+recyclerview\widget\RecyclerView.java:71: error: class, interface, or enum 
+expected
+import java.util.WeakHashMap;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\closecode\EightBallPoolHook.java:1: error: illegal character: '\ufeff'
+?package com.app.framework.closecode;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\closecode\EightBallPoolHook.java:1: error: class, interface, or enum 
+expected
+?package com.app.framework.closecode;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\closecode\EightBallPoolHook.java:3: error: class, interface, or enum 
+expected
+import android.app.Activity;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\closecode\EightBallPoolHook.java:4: error: class, interface, or enum 
+expected
+import android.os.MessageQueue;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\closecode\EightBallPoolHook.java:5: error: class, interface, or enum 
+expected
+import android.os.Process;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\closecode\EightBallPoolHook.java:6: error: class, interface, or enum 
+expected
+import java.lang.reflect.Field;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\closecode\EightBallPoolHook.java:7: error: class, interface, or enum 
+expected
+import java.lang.reflect.Method;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\closecode\EightBallPoolHook.java:8: error: class, interface, or enum 
+expected
+import java.util.Objects;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\closecode\EightBallPoolHook.java:9: error: class, interface, or enum 
+expected
+import java.util.concurrent.Executors;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:1: error: illegal character: 
+'\ufeff'
+?package com.app.framework.fake.delegate;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:1: error: class, interface, or 
+enum expected
+?package com.app.framework.fake.delegate;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:3: error: class, interface, or 
+enum expected
+import android.app.Activity;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:4: error: class, interface, or 
+enum expected
+import android.app.Application;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:5: error: class, interface, or 
+enum expected
+import android.app.Instrumentation;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:6: error: class, interface, or 
+enum expected
+import android.content.BroadcastReceiver;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:7: error: class, interface, or 
+enum expected
+import android.content.Context;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:8: error: class, interface, or 
+enum expected
+import android.content.Intent;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:9: error: class, interface, or 
+enum expected
+import android.content.IntentFilter;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:10: error: class, interface, or 
+enum expected
+import android.content.pm.ActivityInfo;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:11: error: class, interface, or 
+enum expected
+import android.content.res.Configuration;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:12: error: class, interface, or 
+enum expected
+import android.content.res.Resources;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:13: error: class, interface, or 
+enum expected
+import android.os.Build;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:14: error: class, interface, or 
+enum expected
+import android.os.Bundle;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:15: error: class, interface, or 
+enum expected
+import android.os.PersistableBundle;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:16: error: class, interface, or 
+enum expected
+import android.os.ResultReceiver;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:17: error: class, interface, or 
+enum expected
+import android.util.DisplayMetrics;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:18: error: class, interface, or 
+enum expected
+import android.view.Display;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:19: error: class, interface, or 
+enum expected
+import android.view.Window;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:20: error: class, interface, or 
+enum expected
+import com.app.framework.BlackBoxCore;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:21: error: class, interface, or 
+enum expected
+import com.app.framework.app.BActivityThread;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:22: error: class, interface, or 
+enum expected
+import com.app.framework.app.GoogleSignInHelper;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:23: error: class, interface, or 
+enum expected
+import com.app.framework.fake.hook.HookManager;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:24: error: class, interface, or 
+enum expected
+import com.app.framework.fake.hook.IInjectHook;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:25: error: class, interface, or 
+enum expected
+import com.app.framework.fake.service.HCallbackProxy;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:26: error: class, interface, or 
+enum expected
+import com.app.framework.fake.service.IActivityClientProxy;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:27: error: class, interface, or 
+enum expected
+import com.app.framework.utils.FileUtils;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:28: error: class, interface, or 
+enum expected
+import com.app.framework.utils.HackAppUtils;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:29: error: class, interface, or 
+enum expected
+import com.app.framework.utils.compat.ActivityCompat;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:30: error: class, interface, or 
+enum expected
+import com.app.framework.utils.compat.ActivityManagerCompat;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:31: error: class, interface, or 
+enum expected
+import com.app.framework.utils.compat.ContextCompat;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:32: error: class, interface, or 
+enum expected
+import com.ninja.engine.C0217o00o0oO0;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:33: error: class, interface, or 
+enum expected
+import com.ninja.engine.InterfaceC0529o0o0O00O;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:34: error: class, interface, or 
+enum expected
+import com.ninja.engine.InterfaceC1705ooO0OoOo;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:35: error: class, interface, or 
+enum expected
+import java.lang.reflect.Field;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:36: error: class, interface, or 
+enum expected
+import java.util.ArrayList;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:37: error: class, interface, or 
+enum expected
+import java.util.Collection;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\AppInstrumentation.java:38: error: class, interface, or 
+enum expected
+import java.util.Objects;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\BaseInstrumentationDelegate.java:1: error: illegal 
+character: '\ufeff'
+?package com.app.framework.fake.delegate;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\BaseInstrumentationDelegate.java:1: error: class, 
+interface, or enum expected
+?package com.app.framework.fake.delegate;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\BaseInstrumentationDelegate.java:3: error: class, 
+interface, or enum expected
+import android.annotation.TargetApi;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\BaseInstrumentationDelegate.java:4: error: class, 
+interface, or enum expected
+import android.app.Activity;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\BaseInstrumentationDelegate.java:5: error: class, 
+interface, or enum expected
+import android.app.Application;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\BaseInstrumentationDelegate.java:6: error: class, 
+interface, or enum expected
+import android.app.Fragment;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\BaseInstrumentationDelegate.java:7: error: class, 
+interface, or enum expected
+import android.app.Instrumentation;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\BaseInstrumentationDelegate.java:8: error: class, 
+interface, or enum expected
+import android.app.UiAutomation;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\BaseInstrumentationDelegate.java:9: error: class, 
+interface, or enum expected
+import android.content.ComponentName;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\BaseInstrumentationDelegate.java:10: error: class, 
+interface, or enum expected
+import android.content.Context;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\BaseInstrumentationDelegate.java:11: error: class, 
+interface, or enum expected
+import android.content.Intent;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\BaseInstrumentationDelegate.java:12: error: class, 
+interface, or enum expected
+import android.content.IntentFilter;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\BaseInstrumentationDelegate.java:13: error: class, 
+interface, or enum expected
+import android.content.SharedPreferences;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\BaseInstrumentationDelegate.java:14: error: class, 
+interface, or enum expected
+import android.content.pm.ActivityInfo;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\BaseInstrumentationDelegate.java:15: error: class, 
+interface, or enum expected
+import android.os.Build;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\BaseInstrumentationDelegate.java:16: error: class, 
+interface, or enum expected
+import android.os.Bundle;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\BaseInstrumentationDelegate.java:17: error: class, 
+interface, or enum expected
+import android.os.IBinder;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\BaseInstrumentationDelegate.java:18: error: class, 
+interface, or enum expected
+import android.os.PersistableBundle;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\BaseInstrumentationDelegate.java:19: error: class, 
+interface, or enum expected
+import android.os.Process;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\BaseInstrumentationDelegate.java:20: error: class, 
+interface, or enum expected
+import android.os.UserHandle;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\BaseInstrumentationDelegate.java:21: error: class, 
+interface, or enum expected
+import android.view.KeyEvent;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\BaseInstrumentationDelegate.java:22: error: class, 
+interface, or enum expected
+import android.view.MotionEvent;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\BaseInstrumentationDelegate.java:23: error: class, 
+interface, or enum expected
+import com.app.framework.BlackBoxCore;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\BaseInstrumentationDelegate.java:24: error: class, 
+interface, or enum expected
+import com.app.framework.app.configuration.AppLifecycleCallback;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\BaseInstrumentationDelegate.java:25: error: class, 
+interface, or enum expected
+import com.app.framework.utils.Reflector;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\BaseInstrumentationDelegate.java:26: error: class, 
+interface, or enum expected
+import java.lang.reflect.Method;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\GmsBrokerBinderProxy.java:1: error: illegal character: 
+'\ufeff'
+?package com.app.framework.fake.delegate;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\GmsBrokerBinderProxy.java:1: error: class, interface, 
+or enum expected
+?package com.app.framework.fake.delegate;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\GmsBrokerBinderProxy.java:3: error: class, interface, 
+or enum expected
+import android.app.Application;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\GmsBrokerBinderProxy.java:4: error: class, interface, 
+or enum expected
+import android.os.Binder;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\GmsBrokerBinderProxy.java:5: error: class, interface, 
+or enum expected
+import android.os.Bundle;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\GmsBrokerBinderProxy.java:6: error: class, interface, 
+or enum expected
+import android.os.IBinder;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\GmsBrokerBinderProxy.java:7: error: class, interface, 
+or enum expected
+import android.os.IInterface;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\GmsBrokerBinderProxy.java:8: error: class, interface, 
+or enum expected
+import android.os.Parcel;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\GmsBrokerBinderProxy.java:9: error: class, interface, 
+or enum expected
+import android.os.RemoteException;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\GmsBrokerBinderProxy.java:10: error: class, interface, 
+or enum expected
+import com.app.framework.BlackBoxCore;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\GmsBrokerBinderProxy.java:11: error: class, interface, 
+or enum expected
+import com.app.framework.app.BActivityThread;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\GmsBrokerBinderProxy.java:12: error: class, interface, 
+or enum expected
+import com.app.framework.fake.delegate.GmsBrokerBinderProxy;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\GmsBrokerBinderProxy.java:13: error: class, interface, 
+or enum expected
+import java.io.FileDescriptor;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\GmsBrokerBinderProxy.java:14: error: class, interface, 
+or enum expected
+import java.lang.reflect.Array;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\GmsBrokerBinderProxy.java:15: error: class, interface, 
+or enum expected
+import java.lang.reflect.Constructor;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\GmsBrokerBinderProxy.java:16: error: class, interface, 
+or enum expected
+import java.lang.reflect.Field;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\GmsBrokerBinderProxy.java:17: error: class, interface, 
+or enum expected
+import java.lang.reflect.InvocationHandler;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\GmsBrokerBinderProxy.java:18: error: class, interface, 
+or enum expected
+import java.lang.reflect.InvocationTargetException;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\GmsBrokerBinderProxy.java:19: error: class, interface, 
+or enum expected
+import java.lang.reflect.Method;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\GmsBrokerBinderProxy.java:20: error: class, interface, 
+or enum expected
+import java.lang.reflect.Modifier;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\GmsBrokerBinderProxy.java:21: error: class, interface, 
+or enum expected
+import java.lang.reflect.Proxy;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\delegate\GmsBrokerBinderProxy.java:22: error: class, interface, 
+or enum expected
+import java.util.ArrayList;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\frameworks\BResourcesManager.java:1: error: illegal character: 
+'\ufeff'
+?package com.app.framework.fake.frameworks;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\frameworks\BResourcesManager.java:1: error: class, interface, or 
+enum expected
+?package com.app.framework.fake.frameworks;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\frameworks\BResourcesManager.java:3: error: class, interface, or 
+enum expected
+import android.content.Context;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\frameworks\BResourcesManager.java:4: error: class, interface, or 
+enum expected
+import android.content.pm.ApplicationInfo;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\frameworks\BResourcesManager.java:5: error: class, interface, or 
+enum expected
+import android.content.pm.PackageManager;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\frameworks\BResourcesManager.java:6: error: class, interface, or 
+enum expected
+import com.app.framework.BlackBoxCore;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\frameworks\BResourcesManager.java:7: error: class, interface, or 
+enum expected
+import com.app.framework.fake.hook.IInjectHook;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\frameworks\BResourcesManager.java:8: error: class, interface, or 
+enum expected
+import java.lang.reflect.Field;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\frameworks\BResourcesManager.java:9: error: class, interface, or 
+enum expected
+import java.lang.reflect.Method;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\service\ClassLoaderProxy.java:1: error: illegal character: 
+'\ufeff'
+?package com.app.framework.fake.service;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\service\ClassLoaderProxy.java:1: error: class, interface, or 
+enum expected
+?package com.app.framework.fake.service;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\service\ClassLoaderProxy.java:3: error: class, interface, or 
+enum expected
+import android.content.Context;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\service\ClassLoaderProxy.java:4: error: class, interface, or 
+enum expected
+import android.content.pm.ApplicationInfo;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\service\ClassLoaderProxy.java:5: error: class, interface, or 
+enum expected
+import com.app.framework.BlackBoxCore;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\service\ClassLoaderProxy.java:6: error: class, interface, or 
+enum expected
+import com.app.framework.fake.hook.ClassInvocationStub;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\service\ClassLoaderProxy.java:7: error: class, interface, or 
+enum expected
+import com.app.framework.fake.hook.MethodHook;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\service\ClassLoaderProxy.java:8: error: class, interface, or 
+enum expected
+import com.app.framework.fake.hook.ProxyMethod;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\service\ClassLoaderProxy.java:9: error: class, interface, or 
+enum expected
+import com.app.framework.utils.DexFileRecovery;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\service\ClassLoaderProxy.java:10: error: class, interface, or 
+enum expected
+import java.io.File;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\service\ClassLoaderProxy.java:11: error: class, interface, or 
+enum expected
+import java.lang.reflect.Field;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\service\ClassLoaderProxy.java:12: error: class, interface, or 
+enum expected
+import java.lang.reflect.Method;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\service\ClassLoaderProxy.java:13: error: class, interface, or 
+enum expected
+import java.util.ArrayList;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\service\ClassLoaderProxy.java:14: error: class, interface, or 
+enum expected
+import java.util.HashMap;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\service\ClassLoaderProxy.java:15: error: class, interface, or 
+enum expected
+import java.util.List;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\fake\service\ClassLoaderProxy.java:16: error: class, interface, or 
+enum expected
+import java.util.Map;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\utils\AttributionSourceUtils.java:1: error: illegal character: 
+'\ufeff'
+?package com.app.framework.utils;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\utils\AttributionSourceUtils.java:1: error: class, interface, or enum 
+expected
+?package com.app.framework.utils;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\utils\AttributionSourceUtils.java:3: error: class, interface, or enum 
+expected
+import android.os.Process;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\utils\AttributionSourceUtils.java:4: error: class, interface, or enum 
+expected
+import com.app.framework.BlackBoxCore;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\utils\AttributionSourceUtils.java:5: error: class, interface, or enum 
+expected
+import com.app.framework.app.BActivityThread;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\utils\AttributionSourceUtils.java:6: error: class, interface, or enum 
+expected
+import java.lang.reflect.Constructor;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\utils\AttributionSourceUtils.java:7: error: class, interface, or enum 
+expected
+import java.lang.reflect.Field;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\utils\AttributionSourceUtils.java:8: error: class, interface, or enum 
+expected
+import java.lang.reflect.Method;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\utils\AttributionSourceUtils.java:9: error: class, interface, or enum 
+expected
+import java.util.Set;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\utils\SystemHookManager.java:1: error: illegal character: '\ufeff'
+?package com.app.framework.utils;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\utils\SystemHookManager.java:1: error: class, interface, or enum 
+expected
+?package com.app.framework.utils;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\utils\SystemHookManager.java:3: error: class, interface, or enum 
+expected
+import android.app.Activity;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\utils\SystemHookManager.java:4: error: class, interface, or enum 
+expected
+import android.app.ActivityThread;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\utils\SystemHookManager.java:5: error: class, interface, or enum 
+expected
+import android.content.Intent;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\utils\SystemHookManager.java:6: error: class, interface, or enum 
+expected
+import com.app.framework.BlackBoxCore;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\utils\SystemHookManager.java:7: error: class, interface, or enum 
+expected
+import com.ninja.engine.oO00OOOo;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\utils\SystemHookManager.java:8: error: class, interface, or enum 
+expected
+import java.lang.reflect.Constructor;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\utils\SystemHookManager.java:9: error: class, interface, or enum 
+expected
+import java.lang.reflect.Field;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\utils\SystemHookManager.java:10: error: class, interface, or enum 
+expected
+import java.lang.reflect.Method;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\utils\SystemHookManager.java:11: error: class, interface, or enum 
+expected
+import java.lang.reflect.Proxy;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\utils\SystemHookManager.java:12: error: class, interface, or enum 
+expected
+import java.util.Collection;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\app\f
+ramework\utils\SystemHookManager.java:13: error: class, interface, or enum 
+expected
+import java.util.List;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:1: error: illegal 
+character: '\ufeff'
+?package com.google.android.material.bottomsheet;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:1: error: class, 
+interface, or enum expected
+?package com.google.android.material.bottomsheet;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:3: error: class, 
+interface, or enum expected
+import android.animation.ValueAnimator;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:4: error: class, 
+interface, or enum expected
+import android.content.Context;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:5: error: class, 
+interface, or enum expected
+import android.content.res.ColorStateList;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:6: error: class, 
+interface, or enum expected
+import android.content.res.TypedArray;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:7: error: class, 
+interface, or enum expected
+import android.os.Parcelable;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:8: error: class, 
+interface, or enum expected
+import android.text.TextUtils;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:9: error: class, 
+interface, or enum expected
+import android.util.AttributeSet;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:10: error: class, 
+interface, or enum expected
+import android.util.SparseIntArray;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:11: error: class, 
+interface, or enum expected
+import android.util.TypedValue;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:12: error: class, 
+interface, or enum expected
+import android.view.MotionEvent;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:13: error: class, 
+interface, or enum expected
+import android.view.VelocityTracker;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:14: error: class, 
+interface, or enum expected
+import android.view.View;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:15: error: class, 
+interface, or enum expected
+import android.view.ViewConfiguration;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:16: error: class, 
+interface, or enum expected
+import android.view.ViewGroup;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:17: error: class, 
+interface, or enum expected
+import android.view.ViewParent;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:18: error: class, 
+interface, or enum expected
+import android.view.accessibility.AccessibilityNodeInfo;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:19: error: class, 
+interface, or enum expected
+import androidx.coordinatorlayout.widget.CoordinatorLayout;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:20: error: class, 
+interface, or enum expected
+import com.ninja.engine.AbstractC0326o0O0oOOO;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:21: error: class, 
+interface, or enum expected
+import com.ninja.engine.AbstractC0809oO0OooOO;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:22: error: class, 
+interface, or enum expected
+import com.ninja.engine.AbstractC1038oOOOoo0O;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:23: error: class, 
+interface, or enum expected
+import com.ninja.engine.AbstractC1230oOoOo0o;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:24: error: class, 
+interface, or enum expected
+import com.ninja.engine.AbstractC1452oo0O000o;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:25: error: class, 
+interface, or enum expected
+import com.ninja.engine.AbstractC1460oo0O00oo;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:26: error: class, 
+interface, or enum expected
+import com.ninja.engine.C0026OooOoo;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:27: error: class, 
+interface, or enum expected
+import com.ninja.engine.C0028OooOooO;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:28: error: class, 
+interface, or enum expected
+import com.ninja.engine.C0038Oooo0oo;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:29: error: class, 
+interface, or enum expected
+import com.ninja.engine.C0073o0000oO0;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:30: error: class, 
+interface, or enum expected
+import com.ninja.engine.C0225o00oO00O;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:31: error: class, 
+interface, or enum expected
+import com.ninja.engine.C0226o00oO00o;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:32: error: class, 
+interface, or enum expected
+import com.ninja.engine.C0237o00oOo;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:33: error: class, 
+interface, or enum expected
+import com.ninja.engine.C0251o00oo000;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:34: error: class, 
+interface, or enum expected
+import com.ninja.engine.C0327o0O0oOo;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:35: error: class, 
+interface, or enum expected
+import com.ninja.engine.C0868oO0oOoO;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:36: error: class, 
+interface, or enum expected
+import com.ninja.engine.C0875oO0oOooo;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:37: error: class, 
+interface, or enum expected
+import com.ninja.engine.C1204oOoOOOO0;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:38: error: class, 
+interface, or enum expected
+import com.ninja.engine.C1462oo0O0O0;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:39: error: class, 
+interface, or enum expected
+import com.ninja.engine.R;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:40: error: class, 
+interface, or enum expected
+import com.ninja.engine.o00O0O0;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:41: error: class, 
+interface, or enum expected
+import java.lang.ref.WeakReference;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:42: error: class, 
+interface, or enum expected
+import java.util.ArrayList;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:43: error: class, 
+interface, or enum expected
+import java.util.HashMap;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\googl
+e\android\material\bottomsheet\BottomSheetBehavior.java:44: error: class, 
+interface, or enum expected
+import java.util.WeakHashMap;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0308o0O0Ooo0.java:1: error: illegal character: '\ufeff'
+?package com.ninja.engine;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0308o0O0Ooo0.java:1: error: class, interface, or enum expected
+?package com.ninja.engine;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0308o0O0Ooo0.java:3: error: class, interface, or enum expected
+import android.content.Context;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0308o0O0Ooo0.java:4: error: class, interface, or enum expected
+import android.content.res.Resources;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0308o0O0Ooo0.java:5: error: class, interface, or enum expected
+import android.content.res.TypedArray;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0308o0O0Ooo0.java:6: error: class, interface, or enum expected
+import android.graphics.Canvas;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0308o0O0Ooo0.java:7: error: class, interface, or enum expected
+import android.util.AttributeSet;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0308o0O0Ooo0.java:8: error: class, interface, or enum expected
+import android.view.View;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0308o0O0Ooo0.java:9: error: class, interface, or enum expected
+import android.view.ViewGroup;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0308o0O0Ooo0.java:10: error: class, interface, or enum 
+expected
+import androidx.constraintlayout.widget.ConstraintLayout;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0308o0O0Ooo0.java:11: error: class, interface, or enum 
+expected
+import java.util.Arrays;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0308o0O0Ooo0.java:12: error: class, interface, or enum 
+expected
+import java.util.HashMap;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0570o0oOOoo.java:1: error: illegal character: '\ufeff'
+?package com.ninja.engine;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0570o0oOOoo.java:1: error: class, interface, or enum expected
+?package com.ninja.engine;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0570o0oOOoo.java:3: error: class, interface, or enum expected
+import com.app.framework.core.system.user.BUserHandle;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0570o0oOOoo.java:4: error: class, interface, or enum expected
+import java.util.List;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0570o0oOOoo.java:5: error: class, interface, or enum expected
+import java.util.concurrent.LinkedBlockingDeque;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0570o0oOOoo.java:6: error: class, interface, or enum expected
+import java.util.concurrent.ThreadFactory;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0570o0oOOoo.java:7: error: class, interface, or enum expected
+import java.util.concurrent.ThreadPoolExecutor;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0570o0oOOoo.java:8: error: class, interface, or enum expected
+import java.util.concurrent.TimeUnit;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:1: error: illegal character: '\ufeff'
+?package com.ninja.engine;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:1: error: class, interface, or enum expected
+?package com.ninja.engine;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:3: error: class, interface, or enum expected
+import android.animation.ObjectAnimator;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:4: error: class, interface, or enum expected
+import android.animation.PropertyValuesHolder;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:5: error: class, interface, or enum expected
+import android.animation.TimeInterpolator;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:6: error: class, interface, or enum expected
+import android.animation.TypeEvaluator;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:7: error: class, interface, or enum expected
+import android.animation.ValueAnimator;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:8: error: class, interface, or enum expected
+import android.app.AppOpsManager;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:9: error: class, interface, or enum expected
+import android.content.Context;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:10: error: class, interface, or enum 
+expected
+import android.content.Intent;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:11: error: class, interface, or enum 
+expected
+import android.content.pm.ApplicationInfo;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:12: error: class, interface, or enum 
+expected
+import android.content.pm.PackageInfo;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:13: error: class, interface, or enum 
+expected
+import android.content.res.ColorStateList;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:14: error: class, interface, or enum 
+expected
+import android.content.res.Resources;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:15: error: class, interface, or enum 
+expected
+import android.content.res.TypedArray;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:16: error: class, interface, or enum 
+expected
+import android.content.res.XmlResourceParser;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:17: error: class, interface, or enum 
+expected
+import android.graphics.Path;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:18: error: class, interface, or enum 
+expected
+import android.graphics.PathMeasure;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:19: error: class, interface, or enum 
+expected
+import android.graphics.PorterDuff;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:20: error: class, interface, or enum 
+expected
+import android.graphics.drawable.Drawable;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:21: error: class, interface, or enum 
+expected
+import android.graphics.drawable.DrawableContainer;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:22: error: class, interface, or enum 
+expected
+import android.graphics.drawable.InsetDrawable;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:23: error: class, interface, or enum 
+expected
+import android.os.Build;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:24: error: class, interface, or enum 
+expected
+import android.os.Bundle;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:25: error: class, interface, or enum 
+expected
+import android.os.Process;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:26: error: class, interface, or enum 
+expected
+import android.text.SpannableStringBuilder;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:27: error: class, interface, or enum 
+expected
+import android.text.TextUtils;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:28: error: class, interface, or enum 
+expected
+import android.util.AttributeSet;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:29: error: class, interface, or enum 
+expected
+import android.util.SparseArray;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:30: error: class, interface, or enum 
+expected
+import android.util.TypedValue;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:31: error: class, interface, or enum 
+expected
+import android.view.InflateException;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:32: error: class, interface, or enum 
+expected
+import android.view.KeyEvent;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:33: error: class, interface, or enum 
+expected
+import android.view.View;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:34: error: class, interface, or enum 
+expected
+import android.view.ViewParent;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:35: error: class, interface, or enum 
+expected
+import android.view.animation.AnimationUtils;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:36: error: class, interface, or enum 
+expected
+import android.view.animation.Interpolator;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:37: error: class, interface, or enum 
+expected
+import android.view.animation.PathInterpolator;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:38: error: class, interface, or enum 
+expected
+import android.view.inputmethod.EditorInfo;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:39: error: class, interface, or enum 
+expected
+import android.view.inputmethod.InputConnection;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:40: error: class, interface, or enum 
+expected
+import android.widget.ImageView;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:41: error: class, interface, or enum 
+expected
+import com.google.android.material.internal.CheckableImageButton;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:42: error: class, interface, or enum 
+expected
+import com.google.android.material.textfield.TextInputLayout;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:43: error: class, interface, or enum 
+expected
+import java.io.ByteArrayOutputStream;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:44: error: class, interface, or enum 
+expected
+import java.io.DataOutputStream;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:45: error: class, interface, or enum 
+expected
+import java.io.File;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:46: error: class, interface, or enum 
+expected
+import java.io.FileOutputStream;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:47: error: class, interface, or enum 
+expected
+import java.io.IOException;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:48: error: class, interface, or enum 
+expected
+import java.io.InputStream;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:49: error: class, interface, or enum 
+expected
+import java.lang.ref.WeakReference;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:50: error: class, interface, or enum 
+expected
+import java.lang.reflect.Field;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:51: error: class, interface, or enum 
+expected
+import java.lang.reflect.InvocationTargetException;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:52: error: class, interface, or enum 
+expected
+import java.lang.reflect.Method;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:53: error: class, interface, or enum 
+expected
+import java.util.ArrayList;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:54: error: class, interface, or enum 
+expected
+import java.util.Arrays;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:55: error: class, interface, or enum 
+expected
+import java.util.ConcurrentModificationException;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:56: error: class, interface, or enum 
+expected
+import java.util.HashSet;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:57: error: class, interface, or enum 
+expected
+import java.util.Iterator;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:58: error: class, interface, or enum 
+expected
+import java.util.WeakHashMap;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:59: error: class, interface, or enum 
+expected
+import java.util.zip.Deflater;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC0809oO0OooOO.java:60: error: class, interface, or enum 
+expected
+import java.util.zip.DeflaterOutputStream;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1179oOo0o0oO.java:1: error: illegal character: '\ufeff'
+?package com.ninja.engine;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1179oOo0o0oO.java:1: error: class, interface, or enum expected
+?package com.ninja.engine;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1179oOo0o0oO.java:3: error: class, interface, or enum expected
+import java.lang.reflect.Constructor;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1179oOo0o0oO.java:4: error: class, interface, or enum expected
+import java.lang.reflect.InvocationTargetException;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1179oOo0o0oO.java:5: error: class, interface, or enum expected
+import java.lang.reflect.Method;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1179oOo0o0oO.java:6: error: class, interface, or enum expected
+import java.util.ArrayList;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1179oOo0o0oO.java:7: error: class, interface, or enum expected
+import java.util.Collection;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1179oOo0o0oO.java:8: error: class, interface, or enum expected
+import java.util.Collections;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1179oOo0o0oO.java:9: error: class, interface, or enum expected
+import java.util.HashMap;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1179oOo0o0oO.java:10: error: class, interface, or enum 
+expected
+import java.util.List;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1460oo0O00oo.java:1: error: illegal character: '\ufeff'
+?package com.ninja.engine;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1460oo0O00oo.java:1: error: class, interface, or enum expected
+?package com.ninja.engine;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1460oo0O00oo.java:3: error: class, interface, or enum expected
+import android.content.Context;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1460oo0O00oo.java:4: error: class, interface, or enum expected
+import android.content.res.ColorStateList;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1460oo0O00oo.java:5: error: class, interface, or enum expected
+import android.content.res.TypedArray;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1460oo0O00oo.java:6: error: class, interface, or enum expected
+import android.graphics.Rect;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1460oo0O00oo.java:7: error: class, interface, or enum expected
+import android.graphics.drawable.Drawable;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1460oo0O00oo.java:8: error: class, interface, or enum expected
+import android.os.Build;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1460oo0O00oo.java:9: error: class, interface, or enum expected
+import android.util.AttributeSet;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1460oo0O00oo.java:10: error: class, interface, or enum 
+expected
+import android.util.Log;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1460oo0O00oo.java:11: error: class, interface, or enum 
+expected
+import android.util.SparseArray;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1460oo0O00oo.java:12: error: class, interface, or enum 
+expected
+import android.view.KeyEvent;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1460oo0O00oo.java:13: error: class, interface, or enum 
+expected
+import android.view.View;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1460oo0O00oo.java:14: error: class, interface, or enum 
+expected
+import android.view.ViewParent;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1460oo0O00oo.java:15: error: class, interface, or enum 
+expected
+import android.view.accessibility.AccessibilityEvent;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1460oo0O00oo.java:16: error: class, interface, or enum 
+expected
+import android.view.accessibility.AccessibilityManager;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1460oo0O00oo.java:17: error: class, interface, or enum 
+expected
+import com.app.framework.utils.FileUtils;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1460oo0O00oo.java:18: error: class, interface, or enum 
+expected
+import java.lang.ref.WeakReference;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1460oo0O00oo.java:19: error: class, interface, or enum 
+expected
+import java.lang.reflect.Field;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1460oo0O00oo.java:20: error: class, interface, or enum 
+expected
+import java.util.ArrayList;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1460oo0O00oo.java:21: error: class, interface, or enum 
+expected
+import java.util.Objects;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\AbstractC1460oo0O00oo.java:22: error: class, interface, or enum 
+expected
+import java.util.WeakHashMap;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0203o00o0O0O.java:1: error: illegal character: '\ufeff'
+?package com.ninja.engine;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0203o00o0O0O.java:1: error: class, interface, or enum expected
+?package com.ninja.engine;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0297o0O0OOo.java:1: error: illegal character: '\ufeff'
+?package com.ninja.engine;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0297o0O0OOo.java:1: error: class, interface, or enum expected
+?package com.ninja.engine;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0297o0O0OOo.java:3: error: class, interface, or enum expected
+import android.content.Intent;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0297o0O0OOo.java:4: error: class, interface, or enum expected
+import android.os.Bundle;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0297o0O0OOo.java:5: error: class, interface, or enum expected
+import java.util.ArrayList;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0297o0O0OOo.java:6: error: class, interface, or enum expected
+import java.util.HashMap;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0512o0o00Ooo.java:1: error: illegal character: '\ufeff'
+?package com.ninja.engine;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0512o0o00Ooo.java:1: error: class, interface, or enum expected
+?package com.ninja.engine;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0512o0o00Ooo.java:3: error: class, interface, or enum expected
+import android.content.res.AssetManager;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0512o0o00Ooo.java:4: error: class, interface, or enum expected
+import android.media.MediaMetadataRetriever;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0512o0o00Ooo.java:5: error: class, interface, or enum expected
+import android.os.Build;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0512o0o00Ooo.java:6: error: class, interface, or enum expected
+import android.util.Log;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0512o0o00Ooo.java:7: error: class, interface, or enum expected
+import java.io.EOFException;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0512o0o00Ooo.java:8: error: class, interface, or enum expected
+import java.io.FileDescriptor;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0512o0o00Ooo.java:9: error: class, interface, or enum expected
+import java.io.IOException;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0512o0o00Ooo.java:10: error: class, interface, or enum expected
+import java.nio.ByteBuffer;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0512o0o00Ooo.java:11: error: class, interface, or enum expected
+import java.nio.ByteOrder;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0512o0o00Ooo.java:12: error: class, interface, or enum expected
+import java.nio.charset.Charset;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0512o0o00Ooo.java:13: error: class, interface, or enum expected
+import java.text.SimpleDateFormat;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0512o0o00Ooo.java:14: error: class, interface, or enum expected
+import java.util.Arrays;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0512o0o00Ooo.java:15: error: class, interface, or enum expected
+import java.util.HashMap;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0512o0o00Ooo.java:16: error: class, interface, or enum expected
+import java.util.HashSet;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0512o0o00Ooo.java:17: error: class, interface, or enum expected
+import java.util.Locale;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0512o0o00Ooo.java:18: error: class, interface, or enum expected
+import java.util.Map;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0512o0o00Ooo.java:19: error: class, interface, or enum expected
+import java.util.Objects;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0512o0o00Ooo.java:20: error: class, interface, or enum expected
+import java.util.TimeZone;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0512o0o00Ooo.java:21: error: class, interface, or enum expected
+import java.util.regex.Pattern;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0512o0o00Ooo.java:22: error: class, interface, or enum expected
+import java.util.zip.CRC32;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0551o0o0Oo00.java:1: error: illegal character: '\ufeff'
+?package com.ninja.engine;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0551o0o0Oo00.java:1: error: class, interface, or enum expected
+?package com.ninja.engine;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0551o0o0Oo00.java:3: error: class, interface, or enum expected
+import android.animation.ObjectAnimator;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0551o0o0Oo00.java:4: error: class, interface, or enum expected
+import android.view.View;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0551o0o0Oo00.java:5: error: class, interface, or enum expected
+import java.util.HashMap;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0839oO0o0ooO.java:1: error: illegal character: '\ufeff'
+?package com.ninja.engine;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0839oO0o0ooO.java:1: error: class, interface, or enum expected
+?package com.ninja.engine;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0839oO0o0ooO.java:3: error: class, interface, or enum expected
+import android.view.View;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0839oO0o0ooO.java:4: error: class, interface, or enum expected
+import androidx.recyclerview.widget.StaggeredGridLayoutManager;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0839oO0o0ooO.java:5: error: class, interface, or enum expected
+import java.util.ArrayList;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C0839oO0o0ooO.java:6: error: class, interface, or enum expected
+import java.util.LinkedHashMap;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1100oOOoOo0o.java:1: error: illegal character: '\ufeff'
+?package com.ninja.engine;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1100oOOoOo0o.java:1: error: class, interface, or enum expected
+?package com.ninja.engine;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1100oOOoOo0o.java:3: error: class, interface, or enum expected
+import android.content.Context;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1100oOOoOo0o.java:4: error: class, interface, or enum expected
+import android.util.Log;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1100oOOoOo0o.java:5: error: class, interface, or enum expected
+import java.util.ArrayList;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1100oOOoOo0o.java:6: error: class, interface, or enum expected
+import java.util.HashSet;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1100oOOoOo0o.java:7: error: class, interface, or enum expected
+import java.util.Iterator;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1100oOOoOo0o.java:8: error: class, interface, or enum expected
+import java.util.Map;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1100oOOoOo0o.java:9: error: class, interface, or enum expected
+import java.util.Objects;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1100oOOoOo0o.java:10: error: class, interface, or enum expected
+import java.util.Set;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1100oOOoOo0o.java:39: error: not a statement
+            for (java.util.Map.Entry) map.entrySet()) {
+                              ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1100oOOoOo0o.java:39: error: ';' expected
+            for (java.util.Map.Entry) map.entrySet()) {
+                                    ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1100oOOoOo0o.java:39: error: ';' expected
+            for (java.util.Map.Entry) map.entrySet()) {
+                                                    ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1126oOOooOO.java:1: error: illegal character: '\ufeff'
+?package com.ninja.engine;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1126oOOooOO.java:1: error: class, interface, or enum expected
+?package com.ninja.engine;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1126oOOooOO.java:3: error: class, interface, or enum expected
+import android.graphics.Bitmap;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1126oOOooOO.java:4: error: class, interface, or enum expected
+import android.view.View;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1126oOOooOO.java:5: error: class, interface, or enum expected
+import java.io.IOException;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1126oOOooOO.java:6: error: class, interface, or enum expected
+import java.util.ArrayList;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1126oOOooOO.java:7: error: class, interface, or enum expected
+import java.util.Arrays;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1126oOOooOO.java:8: error: class, interface, or enum expected
+import java.util.HashMap;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1126oOOooOO.java:9: error: class, interface, or enum expected
+import java.util.Iterator;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1126oOOooOO.java:10: error: class, interface, or enum expected
+import java.util.List;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1218oOoOOoo.java:1: error: illegal character: '\ufeff'
+?package com.ninja.engine;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1218oOoOOoo.java:1: error: class, interface, or enum expected
+?package com.ninja.engine;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1218oOoOOoo.java:3: error: class, interface, or enum expected
+import java.util.Arrays;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1218oOoOOoo.java:4: error: class, interface, or enum expected
+import java.util.ConcurrentModificationException;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1218oOoOOoo.java:5: error: class, interface, or enum expected
+import java.util.Map;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1220oOoOOooO.java:1: error: illegal character: '\ufeff'
+?package com.ninja.engine;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1220oOoOOooO.java:1: error: class, interface, or enum expected
+?package com.ninja.engine;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1220oOoOOooO.java:3: error: class, interface, or enum expected
+import android.content.Context;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1220oOoOOooO.java:4: error: class, interface, or enum expected
+import android.content.res.Resources;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1220oOoOOooO.java:5: error: class, interface, or enum expected
+import android.graphics.drawable.Drawable;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1220oOoOOooO.java:6: error: class, interface, or enum expected
+import android.os.SystemClock;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1220oOoOOooO.java:7: error: class, interface, or enum expected
+import android.util.Log;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1220oOoOOooO.java:8: error: class, interface, or enum expected
+import java.util.ArrayList;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1220oOoOOooO.java:9: error: class, interface, or enum expected
+import java.util.Iterator;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1220oOoOOooO.java:10: error: class, interface, or enum expected
+import java.util.List;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1220oOoOOooO.java:11: error: class, interface, or enum expected
+import java.util.Map;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1220oOoOOooO.java:12: error: class, interface, or enum expected
+import java.util.Objects;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1220oOoOOooO.java:13: error: class, interface, or enum expected
+import java.util.concurrent.Executor;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1245oOoOoo.java:1: error: illegal character: '\ufeff'
+?package com.ninja.engine;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1245oOoOoo.java:1: error: class, interface, or enum expected
+?package com.ninja.engine;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1245oOoOoo.java:3: error: class, interface, or enum expected
+import android.graphics.Bitmap;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1245oOoOoo.java:4: error: class, interface, or enum expected
+import java.nio.ByteBuffer;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1245oOoOoo.java:5: error: class, interface, or enum expected
+import java.nio.ByteOrder;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1245oOoOoo.java:6: error: class, interface, or enum expected
+import java.util.Iterator;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1425oo00oO0.java:1: error: illegal character: '\ufeff'
+?package com.ninja.engine;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1425oo00oO0.java:1: error: class, interface, or enum expected
+?package com.ninja.engine;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1425oo00oO0.java:3: error: class, interface, or enum expected
+import android.graphics.Matrix;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1425oo00oO0.java:4: error: class, interface, or enum expected
+import android.graphics.Paint;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\C1425oo00oO0.java:5: error: class, interface, or enum expected
+import java.util.ArrayList;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\MenuC0887oO0oo0oo.java:1: error: illegal character: '\ufeff'
+?package com.ninja.engine;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\MenuC0887oO0oo0oo.java:1: error: class, interface, or enum expected
+?package com.ninja.engine;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\MenuC0887oO0oo0oo.java:3: error: class, interface, or enum expected
+import android.content.ComponentName;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\MenuC0887oO0oo0oo.java:4: error: class, interface, or enum expected
+import android.content.Context;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\MenuC0887oO0oo0oo.java:5: error: class, interface, or enum expected
+import android.content.Intent;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\MenuC0887oO0oo0oo.java:6: error: class, interface, or enum expected
+import android.content.pm.ActivityInfo;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\MenuC0887oO0oo0oo.java:7: error: class, interface, or enum expected
+import android.content.pm.PackageManager;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\MenuC0887oO0oo0oo.java:8: error: class, interface, or enum expected
+import android.content.pm.ResolveInfo;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\MenuC0887oO0oo0oo.java:9: error: class, interface, or enum expected
+import android.content.res.Resources;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\MenuC0887oO0oo0oo.java:10: error: class, interface, or enum expected
+import android.graphics.drawable.Drawable;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\MenuC0887oO0oo0oo.java:11: error: class, interface, or enum expected
+import android.os.Build;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\MenuC0887oO0oo0oo.java:12: error: class, interface, or enum expected
+import android.os.Bundle;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\MenuC0887oO0oo0oo.java:13: error: class, interface, or enum expected
+import android.os.Parcelable;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\MenuC0887oO0oo0oo.java:14: error: class, interface, or enum expected
+import android.util.SparseArray;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\MenuC0887oO0oo0oo.java:15: error: class, interface, or enum expected
+import android.view.KeyCharacterMap;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\MenuC0887oO0oo0oo.java:16: error: class, interface, or enum expected
+import android.view.KeyEvent;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\MenuC0887oO0oo0oo.java:17: error: class, interface, or enum expected
+import android.view.Menu;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\MenuC0887oO0oo0oo.java:18: error: class, interface, or enum expected
+import android.view.MenuItem;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\MenuC0887oO0oo0oo.java:19: error: class, interface, or enum expected
+import android.view.SubMenu;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\MenuC0887oO0oo0oo.java:20: error: class, interface, or enum expected
+import android.view.View;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\MenuC0887oO0oo0oo.java:21: error: class, interface, or enum expected
+import android.view.ViewConfiguration;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\MenuC0887oO0oo0oo.java:22: error: class, interface, or enum expected
+import java.lang.ref.WeakReference;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\MenuC0887oO0oo0oo.java:23: error: class, interface, or enum expected
+import java.lang.reflect.Method;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\MenuC0887oO0oo0oo.java:24: error: class, interface, or enum expected
+import java.util.ArrayList;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\MenuC0887oO0oo0oo.java:25: error: class, interface, or enum expected
+import java.util.Iterator;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\MenuC0887oO0oo0oo.java:26: error: class, interface, or enum expected
+import java.util.List;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\MenuC0887oO0oo0oo.java:27: error: class, interface, or enum expected
+import java.util.concurrent.CopyOnWriteArrayList;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\o0O00000.java:1: error: illegal character: '\ufeff'
+?package com.ninja.engine;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\o0O00000.java:1: error: class, interface, or enum expected
+?package com.ninja.engine;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\o0O00000.java:3: error: class, interface, or enum expected
+import java.util.ArrayList;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\o0O00000.java:4: error: class, interface, or enum expected
+import java.util.Iterator;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\RunnableC0087o000Oo0O.java:1: error: illegal character: '\ufeff'
+?package com.ninja.engine;
+^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\RunnableC0087o000Oo0O.java:1: error: class, interface, or enum expected
+?package com.ninja.engine;
+         ^
+C:\Users\sarko\Downloads\ninja_engine_project\app\src\main\java_clean\com\ninja
+\engine\RunnableC0087o000Oo0O.java:3: error: class, interface, or enum expected
+import android.content.Context;
+^
+505 errors
+3 warnings
+
+> Task :app:compileDebugJavaWithJavac FAILED
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:compileDebugJavaWithJavac'.
+> Compilation failed; see the compiler error output for details.
+
+* Try:
+> Run with --info option to get more log output.
+> Run with --scan to get full insights.
+
+BUILD FAILED in 15s
+13 actionable tasks: 1 executed, 12 up-to-date

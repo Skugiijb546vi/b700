@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ninja.engine.app-mergeDebugResources-27:/values-v28/values-v28.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sarko\\Downloads\\ninja_engine_project\\app\\src\\main\\res\\values-v28\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,120,182,244,307,369,430,491",
+                        "endColumns": "61,60,60,61,60,59,59,60",
+                        "endOffsets": "114,176,238,301,363,424,485,547"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "441,503,564,625,687,748,808,868",
+                        "endColumns": "61,60,60,61,60,59,59,60",
+                        "endOffsets": "498,559,620,682,743,803,863,924"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\sarko\\Downloads\\ninja_engine_project\\app\\src\\main\\res\\values-v28\\styles.xml",
+                    "from": {
+                        "startLines": "2,4,6,18,21",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "57,153,261,1444,1625",
+                        "endLines": "3,5,17,20,23",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "147,255,1438,1619,1812"
+                    },
+                    "to": {
+                        "startLines": "14,16,18,30,33",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "929,1023,1129,2300,2478",
+                        "endLines": "15,17,29,32,35",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "1018,1124,2295,2473,2663"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\sarko\\.gradle\\caches\\transforms-3\\83ec12ef522fb2d65f7e424bd09c6e58\\transformed\\material-1.9.0\\res\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,14",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,153,248,343,1141",
+                        "endLines": "2,3,4,5,17",
+                        "endColumns": "97,94,94,97,10",
+                        "endOffsets": "148,243,338,436,1423"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,36",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,153,248,343,2668",
+                        "endLines": "2,3,4,5,39",
+                        "endColumns": "97,94,94,97,10",
+                        "endOffsets": "148,243,338,436,2950"
+                    }
+                }
+            ]
+        }
+    ]
+}

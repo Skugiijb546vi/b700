@@ -1,0 +1,33 @@
+package com.ninja.engine;
+
+import android.content.Context;
+import android.util.AttributeSet;
+import android.widget.EdgeEffect;
+/* renamed from: com.ninja.engine.o0OoOOo  reason: case insensitive filesystem */
+/* loaded from: classes.dex */
+public abstract class AbstractC0450o0OoOOo {
+    public static EdgeEffect OooO00o(Context context, AttributeSet attributeSet) {
+        try {
+            return new EdgeEffect(context, attributeSet);
+        } catch (Throwable unused) {
+            return new EdgeEffect(context);
+        }
+    }
+
+    public static float OooO0O0(EdgeEffect edgeEffect) {
+        try {
+            return edgeEffect.getDistance();
+        } catch (Throwable unused) {
+            return 0.0f;
+        }
+    }
+
+    public static float OooO0OO(EdgeEffect edgeEffect, float f, float f2) {
+        try {
+            return edgeEffect.onPullDistance(f, f2);
+        } catch (Throwable unused) {
+            edgeEffect.onPull(f, f2);
+            return 0.0f;
+        }
+    }
+}
