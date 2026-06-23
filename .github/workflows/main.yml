@@ -1,4 +1,4 @@
-name: Smart Auto-Build (Java/Android)
+name: Smart Auto-Build (Android APK)
 
 on:
   push:
@@ -13,28 +13,26 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v4
 
-    - name: Set up JDK 17
+    - name: Set up JDK 11
       uses: actions/setup-java@v4
       with:
-        java-version: '17'
+        java-version: '11'
         distribution: 'temurin'
 
-    - name: Auto-Detect and Build
+    - name: Auto-Detect and Build APK
       run: |
         echo "Searching for build files..."
         
-        # گەڕان بەدوای فایلی Gradle
         GRADLE_FILE=$(find . -name "gradlew" -type f | head -n 1)
         if [ -n "$GRADLE_FILE" ]; then
           echo "Gradle build file found at: $GRADLE_FILE"
           DIR=$(dirname "$GRADLE_FILE")
           cd "$DIR"
           chmod +x gradlew
-          ./gradlew build
+          ./gradlew assembleDebug
           exit 0
         fi
         
-        # گەڕان بەدوای فایلی Maven
         POM_FILE=$(find . -name "pom.xml" -type f | head -n 1)
         if [ -n "$POM_FILE" ]; then
           echo "Maven build file found at: $POM_FILE"
@@ -44,7 +42,5 @@ jobs:
           exit 0
         fi
         
-        echo "Error: No gradlew or pom.xml found anywhere in the repository!"
-        echo "Here is the structure of your repository:"
-        ls -R
+        echo "Error: No build files found!"
         exit 1
